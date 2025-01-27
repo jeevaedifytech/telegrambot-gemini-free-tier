@@ -1,5 +1,5 @@
 ----------------------------informations-----------------------
-No, the provided code does **not require a Hugging Face API key**. Here's why:
+
 
 1. **Hugging Face Transformers Library**: 
    - Models like `Salesforce/blip-vqa-base` (for VQA) and `deepset/roberta-base-squad2` (for text-based QA) are downloaded directly from the Hugging Face model hub without the need for an API key. 
@@ -22,7 +22,3 @@ OPENAI_API_KEY = "replace your tokens"
 
 
 
-
-
-test12- works with fiass db multi QA
-test14 without fiass and works multi qa
