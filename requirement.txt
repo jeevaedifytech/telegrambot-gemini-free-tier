@@ -1,0 +1,8 @@
+pyTelegramBotAPI 
+requests 
+Pillow 
+transformers 
+google-generativeai 
+torch 
+torchvision 
+torchaudio
