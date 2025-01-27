@@ -1,0 +1,121 @@
+2024-12-18 12:42:07,744 - INFO - Bot is starting...
+2024-12-18 12:42:13,712 - INFO - User 1404771648 started the bot.
+2024-12-18 12:42:19,958 - INFO - User 1404771648 selected model: OpenSource Model
+2024-12-18 12:42:40,369 - INFO - User 1223603125 started the bot.
+2024-12-18 12:42:43,194 - INFO - User 1223603125 selected model: OpenSource Model
+2024-12-18 12:42:52,135 - INFO - User 1223603125 uploaded a file.
+2024-12-18 12:42:52,697 - INFO - Processing image for user 1223603125: uploads\image_1223603125.jpg
+2024-12-18 12:42:52,994 - INFO - Extracting text from image: uploads\image_1223603125.jpg
+2024-12-18 12:42:53,774 - INFO - Text extraction from image completed. Total 668 characters extracted.
+2024-12-18 12:42:53,774 - INFO - Prompting user 1223603125 to ask a question about Image.
+2024-12-18 12:43:03,064 - INFO - User 1223603125 chose option: Ask a question about this Image
+2024-12-18 12:43:22,240 - INFO - Answering question: what is the locationof this job
+2024-12-18 12:43:22,555 - INFO - User 1223603125 asked: what is the locationof this job
+2024-12-18 12:46:15,059 - INFO - Bot is starting...
+2024-12-18 12:46:18,271 - INFO - User 1223603125 started the bot.
+2024-12-18 12:46:21,591 - INFO - User 1223603125 selected model: ChatGPT
+2024-12-18 12:46:29,804 - INFO - User 1223603125 uploaded a file.
+2024-12-18 12:46:30,383 - INFO - Processing image for user 1223603125: uploads\image_1223603125.jpg
+2024-12-18 12:46:30,702 - INFO - Extracting text from image: uploads\image_1223603125.jpg
+2024-12-18 12:46:31,497 - INFO - Text extraction from image completed. Total 831 characters extracted.
+2024-12-18 12:46:31,497 - INFO - Prompting user 1223603125 to ask a question about Image.
+2024-12-18 12:46:49,353 - INFO - User 1223603125 chose option: what re the open positions available
+2024-12-18 12:47:41,291 - INFO - User 1223603125 started the bot.
+2024-12-18 12:47:43,992 - INFO - User 1223603125 selected model: OpenSource Model
+2024-12-18 12:47:50,646 - INFO - User 1223603125 uploaded a file.
+2024-12-18 12:47:51,225 - INFO - Processing image for user 1223603125: uploads\image_1223603125.jpg
+2024-12-18 12:47:51,527 - INFO - Extracting text from image: uploads\image_1223603125.jpg
+2024-12-18 12:47:52,352 - INFO - Text extraction from image completed. Total 831 characters extracted.
+2024-12-18 12:47:52,352 - INFO - Prompting user 1223603125 to ask a question about Image.
+2024-12-18 12:47:54,271 - INFO - User 1223603125 chose option: Upload this Image to Gemini
+2024-12-18 12:48:06,450 - INFO - Querying Gemini with question: what are the open positions available
+2024-12-18 12:48:07,226 - INFO - Gemini response received.
+2024-12-18 12:48:07,226 - INFO - User 1223603125 asked Gemini: what are the open positions available
+2024-12-18 12:50:39,931 - INFO - User 1223603125 started the bot.
+2024-12-18 12:50:42,460 - INFO - User 1223603125 selected model: OpenSource Model
+2024-12-18 12:52:05,354 - INFO - User 1223603125 uploaded a file.
+2024-12-18 12:52:08,154 - INFO - Processing PDF for user 1223603125: uploads\Detailed CEN 04-2024 Paramedical English (1).pdf
+2024-12-18 12:52:08,501 - INFO - Extracting text from PDF: uploads\Detailed CEN 04-2024 Paramedical English (1).pdf
+2024-12-18 12:52:08,812 - INFO - Text extraction from PDF completed. Total 127751 characters extracted.
+2024-12-18 12:52:08,813 - INFO - Prompting user 1223603125 to ask a question about PDF.
+2024-12-18 12:52:13,137 - INFO - User 1223603125 chose option: Upload this PDF to Gemini
+2024-12-18 12:52:27,414 - INFO - Querying Gemini with question: what is the application start date
+2024-12-18 12:52:29,851 - INFO - Gemini response received.
+2024-12-18 12:52:29,851 - INFO - User 1223603125 asked Gemini: what is the application start date
+2024-12-18 12:56:00,726 - INFO - Bot is starting...
+2024-12-18 12:56:01,523 - INFO - User 1223603125 started the bot.
+2024-12-18 12:56:09,436 - INFO - User 1223603125 selected model: OpenSource Model
+2024-12-18 12:57:18,896 - INFO - User 1223603125 uploaded a file.
+2024-12-18 12:57:20,277 - INFO - Processing PDF for user 1223603125: uploads\somatosensory.pdf
+2024-12-18 12:57:20,584 - INFO - Extracting text from PDF: uploads\somatosensory.pdf
+2024-12-18 12:57:20,665 - INFO - Text extraction from PDF completed. Total 7309 characters extracted.
+2024-12-18 12:57:20,665 - INFO - Prompting user 1223603125 to ask a question about PDF.
+2024-12-18 12:57:24,622 - INFO - User 1223603125 chose option: Upload this PDF to gpt
+2024-12-18 12:57:31,080 - INFO - Querying gpt with question: summary
+2024-12-18 12:57:32,513 - INFO - Gpt response received.
+2024-12-18 12:57:32,521 - INFO - User 1223603125 asked gpt: summary
+2024-12-18 12:59:41,362 - INFO - Bot is starting...
+2024-12-18 12:59:46,259 - INFO - User 1223603125 started the bot.
+2024-12-18 12:59:49,376 - INFO - User 1223603125 selected model: OpenSource Model
+2024-12-18 12:59:57,435 - INFO - User 1223603125 uploaded a file.
+2024-12-18 12:59:58,276 - INFO - Processing image for user 1223603125: uploads\image_1223603125.jpg
+2024-12-18 12:59:58,678 - INFO - Extracting text from image: uploads\image_1223603125.jpg
+2024-12-18 12:59:59,508 - INFO - Text extraction from image completed. Total 831 characters extracted.
+2024-12-18 12:59:59,509 - INFO - Prompting user 1223603125 to ask a question about Image.
+2024-12-18 13:00:05,834 - INFO - User 1223603125 chose option: Ask a question about this Image
+2024-12-18 13:00:16,960 - INFO - Answering question: what are the open positions available
+2024-12-18 13:00:17,275 - INFO - User 1223603125 asked: what are the open positions available
+2024-12-18 13:00:38,056 - INFO - User 1223603125 started the bot.
+2024-12-18 13:00:41,933 - INFO - User 1223603125 selected model: OpenSource Model
+2024-12-18 13:00:49,745 - INFO - User 1223603125 uploaded a file.
+2024-12-18 13:00:50,311 - INFO - Processing image for user 1223603125: uploads\image_1223603125.jpg
+2024-12-18 13:00:50,617 - INFO - Extracting text from image: uploads\image_1223603125.jpg
+2024-12-18 13:00:51,450 - INFO - Text extraction from image completed. Total 831 characters extracted.
+2024-12-18 13:00:51,450 - INFO - Prompting user 1223603125 to ask a question about Image.
+2024-12-18 13:00:59,185 - INFO - User 1223603125 chose option: /help
+2024-12-18 13:01:07,069 - INFO - User 1223603125 started the bot.
+2024-12-18 13:01:09,459 - INFO - User 1223603125 selected model: ChatGPT
+2024-12-18 13:01:19,305 - INFO - User 1223603125 uploaded a file.
+2024-12-18 13:01:19,897 - INFO - Processing image for user 1223603125: uploads\image_1223603125.jpg
+2024-12-18 13:01:20,209 - INFO - Extracting text from image: uploads\image_1223603125.jpg
+2024-12-18 13:01:20,994 - INFO - Text extraction from image completed. Total 831 characters extracted.
+2024-12-18 13:01:20,994 - INFO - Prompting user 1223603125 to ask a question about Image.
+2024-12-18 13:01:37,674 - INFO - User 1223603125 chose option: what are the open positions available
+2024-12-18 13:01:56,995 - INFO - User 1223603125 started the bot.
+2024-12-18 13:01:59,388 - INFO - User 1223603125 selected model: ChatGPT
+2024-12-18 13:02:05,914 - INFO - User 1223603125 uploaded a file.
+2024-12-18 13:02:06,522 - INFO - Processing image for user 1223603125: uploads\image_1223603125.jpg
+2024-12-18 13:02:06,823 - INFO - Extracting text from image: uploads\image_1223603125.jpg
+2024-12-18 13:02:07,677 - INFO - Text extraction from image completed. Total 831 characters extracted.
+2024-12-18 13:02:07,677 - INFO - Prompting user 1223603125 to ask a question about Image.
+2024-12-18 13:02:09,427 - INFO - User 1223603125 chose option: Ask a question about this Image
+2024-12-18 13:02:13,463 - INFO - Answering question: what are the open positions available
+2024-12-18 13:02:13,609 - INFO - User 1223603125 asked: what are the open positions available
+2024-12-19 01:00:56,905 - INFO - Bot is starting...
+2024-12-19 01:01:14,946 - INFO - User 1223603125 started the bot.
+2024-12-19 01:01:20,491 - INFO - User 1223603125 selected model: OpenSource Model
+2024-12-19 01:01:29,448 - INFO - User 1223603125 uploaded a file.
+2024-12-19 01:01:30,029 - INFO - Processing image for user 1223603125: uploads\image_1223603125.jpg
+2024-12-19 01:01:30,337 - INFO - Extracting text from image: uploads\image_1223603125.jpg
+2024-12-19 01:01:31,193 - INFO - Text extraction from image completed. Total 831 characters extracted.
+2024-12-19 01:01:31,193 - INFO - Prompting user 1223603125 to ask a question about Image.
+2024-12-19 01:01:40,746 - INFO - User 1223603125 chose option: BDE key skills
+2024-12-19 01:05:13,964 - INFO - Bot is starting...
+2024-12-19 01:05:14,734 - INFO - User 1223603125 started the bot.
+2024-12-19 01:05:22,912 - INFO - User 1223603125 selected model: ChatGPT
+2024-12-19 01:05:30,931 - INFO - User 1223603125 uploaded a file.
+2024-12-19 01:05:31,665 - INFO - Processing image for user 1223603125: uploads\image_1223603125.jpg
+2024-12-19 01:05:31,974 - INFO - Extracting text from image: uploads\image_1223603125.jpg
+2024-12-19 01:05:32,771 - INFO - Text extraction from image completed. Total 831 characters extracted.
+2024-12-19 01:05:32,774 - INFO - Prompting user 1223603125 to ask a question about Image.
+2024-12-19 01:05:49,701 - INFO - User 1223603125 chose option: job location
+2024-12-19 01:05:54,229 - INFO - User 1223603125 started the bot.
+2024-12-19 01:05:55,897 - INFO - User 1223603125 selected model: OpenSource Model
+2024-12-19 01:06:02,028 - INFO - User 1223603125 uploaded a file.
+2024-12-19 01:06:02,593 - INFO - Processing image for user 1223603125: uploads\image_1223603125.jpg
+2024-12-19 01:06:02,902 - INFO - Extracting text from image: uploads\image_1223603125.jpg
+2024-12-19 01:06:03,691 - INFO - Text extraction from image completed. Total 831 characters extracted.
+2024-12-19 01:06:03,693 - INFO - Prompting user 1223603125 to ask a question about Image.
+2024-12-19 01:06:08,216 - INFO - User 1223603125 chose option: Ask a question about this Image
+2024-12-19 01:06:14,406 - INFO - Answering question: job location
+2024-12-19 01:06:14,588 - INFO - User 1223603125 asked: job location

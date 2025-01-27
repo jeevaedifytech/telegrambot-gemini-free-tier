@@ -1,0 +1,1704 @@
+2024-12-19 03:52:53,900 - INFO - Bot is running...
+2024-12-19 03:53:13,852 - INFO - Sent welcome message to 1223603125
+2024-12-19 03:53:21,538 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-19 03:53:22,717 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-19 03:53:23,111 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-19 03:53:26,528 - INFO - User 1223603125 selected ChatGPT
+2024-12-19 03:53:40,515 - INFO - ChatGPT Response: The open positions at JC Software Solution in Mohali are:
+
+1. Business Development Executive (BDE)
+2. React Native Developer
+3. Software Tester
+2024-12-19 03:53:40,846 - INFO - Asked ChatGPT: what are the open positions
+2024-12-19 03:59:08,125 - INFO - Bot is running...
+2024-12-19 03:59:12,643 - INFO - Sent welcome message to 1223603125
+2024-12-19 03:59:19,257 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-19 03:59:20,362 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-19 03:59:20,840 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-19 03:59:22,338 - INFO - User 1223603125 selected Open Source QA
+2024-12-19 03:59:35,887 - INFO - Answered question using Open Source QA: key skills of software tester
+2024-12-19 03:59:36,504 - INFO - Answered user query: key skills of software tester
+2024-12-19 03:59:53,942 - INFO - Answered question using Open Source QA: job location
+2024-12-19 03:59:54,575 - INFO - Answered user query: job location
+2024-12-19 04:00:16,341 - INFO - Answered question using Open Source QA: what is the email id to send resume
+2024-12-19 04:00:16,953 - INFO - Answered user query: what is the email id to send resume
+2024-12-19 04:00:28,623 - INFO - Answered question using Open Source QA: full email id
+2024-12-19 04:00:29,323 - INFO - Answered user query: full email id
+2024-12-19 04:01:40,730 - INFO - Bot is running...
+2024-12-19 04:01:42,056 - INFO - Sent welcome message to 1223603125
+2024-12-19 04:01:53,316 - INFO - Sent welcome message to 1223603125
+2024-12-19 04:01:58,124 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-19 04:01:59,298 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-19 04:01:59,651 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-19 04:02:01,962 - INFO - User 1223603125 selected ChatGPT
+2024-12-19 04:02:15,929 - INFO - ChatGPT Response: For the Software Tester job at JC Software Solution in Mohali, the key requirements include:
+
+- Experience: 1+ year in software testing
+- Key Skills:
+  1. Test case creation
+  2. Bug reporting
+  3. Knowledge of software testing methodologies
+  4. Understanding of Quality Assurance (QA) processes
+
+If you meet these requirements and are passionate about software testing, you can send your resume to diwankshi@jcsoftwaresolution.com or tanvisharma@softwaresolution.com.
+2024-12-19 04:02:16,562 - INFO - Asked ChatGPT: software tester job requirements
+2024-12-19 04:02:32,072 - INFO - Answered question using Open Source QA: BDE requirements
+2024-12-19 04:02:32,688 - INFO - Answered user query: BDE requirements
+2024-12-19 04:02:47,260 - INFO - Answered question using Open Source QA: keyskills of bde
+2024-12-19 04:02:48,010 - INFO - Answered user query: keyskills of bde
+2024-12-19 04:03:17,569 - INFO - Answered question using Open Source QA: keyskills of business development executive
+2024-12-19 04:03:18,221 - INFO - Answered user query: keyskills of business development executive
+2024-12-19 04:03:30,703 - INFO - Answered question using Open Source QA: job location
+2024-12-19 04:03:31,312 - INFO - Answered user query: job location
+2024-12-19 04:03:43,194 - INFO - Answered question using Open Source QA: email id to send resume
+2024-12-19 04:03:43,875 - INFO - Answered user query: email id to send resume
+2024-12-19 04:11:03,717 - INFO - Bot is running...
+2024-12-19 04:11:09,930 - INFO - Sent welcome message to 1223603125
+2024-12-19 04:11:26,213 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-19 04:11:27,314 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-19 04:11:27,661 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-19 04:11:29,210 - INFO - User 1223603125 selected Open Source QA
+2024-12-19 04:11:35,745 - INFO - Answered question using Open Source QA: job location
+2024-12-19 04:11:36,436 - INFO - Answered user query in opensource workflow: job location
+2024-12-19 04:11:39,680 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-19 04:11:47,083 - INFO - Answered question using Open Source QA: tester experience
+2024-12-19 04:11:47,709 - INFO - Answered user query in opensource workflow: tester experience
+2024-12-19 04:11:49,923 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-19 04:11:58,311 - INFO - Answered question using Open Source QA: react developer skills
+2024-12-19 04:11:59,021 - INFO - Answered user query in opensource workflow: react developer skills
+2024-12-19 04:12:09,917 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-19 04:12:20,893 - INFO - Answered question using Open Source QA: react native developer experience
+2024-12-19 04:12:21,560 - INFO - Answered user query in opensource workflow: react native developer experience
+2024-12-19 04:12:26,220 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2024-12-19 04:12:33,974 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-19 04:12:35,143 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-19 04:12:35,476 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-19 04:12:40,746 - INFO - User 1223603125 selected ChatGPT
+2024-12-19 04:12:57,035 - INFO - ChatGPT Response: The key skills required for the Software Tester position at JC Software Solution include:
+
+1. Test case creation: Ability to create detailed and effective test cases to ensure thorough testing of software applications.
+2. Bug reporting: Proficiency in identifying and documenting bugs or defects found during testing, including clearly communicating the issues to the development team.
+3. Software testing methodologies: Knowledge of various testing methods and strategies, such as black-box testing, white-box testing, regression testing, and user acceptance testing.
+4. QA processes: Understanding of quality assurance processes and best practices to ensure the delivery of high-quality software products to clients. This may involve working closely with developers to execute testing plans and verify outcomes.
+
+If you have experience in these areas and meet the experience requirements, you may be a good fit for the Software Tester position at JC Software Solution.
+2024-12-19 04:12:57,705 - INFO - Asked ChatGPT in chatgpt workflow: software tester skills
+2024-12-19 04:13:01,680 - INFO - User 1223603125 chose 'Yes', continuing chatgpt workflow.
+2024-12-19 04:13:22,460 - INFO - ChatGPT Response: The key skills required for the Business Development Executive (BDE) position at JC Software Solution are:
+
+1. Lead generation: Ability to identify and generate leads through various channels such as networking, cold calling, and referrals.
+
+2. Client communication: Effective communication skills to engage with clients, understand their requirements, and provide relevant information about the company's products or services.
+
+3. Proposal writing: Proficiency in creating persuasive and tailored proposals to attract potential clients and close deals.
+
+4. Sales strategies: Knowledge of different sales techniques and strategies to drive business growth, meet targets, and maintain client relationships.
+
+These skills are essential for the BDE role in order to contribute to the company's growth and success by acquiring new clients and expanding the business.
+2024-12-19 04:13:23,078 - INFO - Asked ChatGPT in chatgpt workflow: business development executive skills
+2024-12-19 04:13:44,518 - INFO - User 1223603125 chose 'Yes', continuing chatgpt workflow.
+2024-12-19 04:13:50,117 - INFO - ChatGPT Response: The job location for these positions is Mohali, and it is onsite.
+2024-12-19 04:13:50,770 - INFO - Asked ChatGPT in chatgpt workflow: job location
+2024-12-19 04:13:54,288 - INFO - User 1223603125 chose 'Yes', continuing chatgpt workflow.
+2024-12-19 04:14:02,467 - INFO - ChatGPT Response: You can send your resume to either of the following email addresses provided in the job posting:
+
+- diwankshi@jcsoftwaresolution.com
+- tanvisharma@softwaresolution.com
+
+Make sure to attach your resume and any other required documents as instructed in the job posting. Good luck with your application!
+2024-12-19 04:14:03,341 - INFO - Asked ChatGPT in chatgpt workflow: where to send resumes
+2024-12-19 04:14:31,679 - INFO - User 1223603125 chose 'Yes', continuing chatgpt workflow.
+2024-12-19 04:14:58,891 - INFO - ChatGPT Response: I'm sorry, but the job posting provided does not include a contact number for interested candidates. The preferred method of contact for this job opportunity is to send your resume to the email addresses mentioned in the post: diwankshi@jcsoftwaresolution.com or tanvisharma@softwaresolution.com. If you have any further questions or need assistance, please let me know.
+2024-12-19 04:14:59,570 - INFO - Asked ChatGPT in chatgpt workflow: contact numberavailable
+2024-12-19 04:15:26,161 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2024-12-19 04:59:24,521 - INFO - Received and saved PDF: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2024-12-19 04:59:25,108 - INFO - Extracted text from PDF: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2024-12-19 04:59:25,423 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-19 04:59:28,759 - INFO - User 1223603125 selected ChatGPT
+2024-12-19 04:59:34,893 - INFO - error_code=context_length_exceeded error_message="This model's maximum context length is 16385 tokens. However, your messages resulted in 35392 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-12-19 04:59:34,896 - ERROR - Error interacting with ChatGPT: This model's maximum context length is 16385 tokens. However, your messages resulted in 35392 tokens. Please reduce the length of the messages.
+2024-12-19 04:59:35,688 - INFO - Asked ChatGPT in chatgpt workflow: total vacancy
+2024-12-19 04:59:47,066 - INFO - User 1223603125 chose 'Yes', continuing chatgpt workflow.
+2024-12-19 05:11:47,679 - INFO - Bot is running...
+2024-12-19 05:11:56,374 - INFO - Sent welcome message to 1223603125
+2024-12-19 05:12:02,218 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-19 05:12:03,606 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-19 05:12:03,927 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-19 05:12:05,483 - INFO - User 1223603125 selected ChatGPT
+2024-12-19 05:12:14,221 - INFO - ChatGPT Response: The key skills required for the Software Tester position at JC Software Solution include:
+
+1. Test case creation: The ability to design and create detailed test cases to ensure thorough testing coverage.
+2. Bug reporting: Proficiency in identifying, documenting, and reporting software issues or bugs found during testing.
+3. Software testing methodologies: Knowledge and understanding of various testing techniques, methodologies, and best practices.
+4. QA processes: Familiarity with quality assurance processes to ensure the delivery of high-quality software products to clients.
+
+These skills are essential for a Software Tester role to effectively perform testing activities and contribute to the overall quality of the software developed by the company.
+2024-12-19 05:12:14,899 - INFO - Asked ChatGPT in chatgpt workflow: software tester skills
+2024-12-19 05:12:20,688 - INFO - User 1223603125 chose 'Yes', continuing chatgpt workflow.
+2024-12-19 05:12:35,722 - INFO - ChatGPT Response: The work location for the open positions mentioned in the job posting is Mohali (onsite). If you are interested in any of the positions and would like to apply, you can send your resume to either diwankshi@jcsoftwaresolution.com or tanvisharma@softwaresolution.com.
+2024-12-19 05:12:36,341 - INFO - Asked ChatGPT in chatgpt workflow: what is work location and where to send resume
+2024-12-19 05:12:42,582 - INFO - User 1223603125 chose 'Yes', continuing chatgpt workflow.
+2024-12-19 05:13:05,421 - INFO - ChatGPT Response: There are three open positions available at JC Software Solution. Here are the positions and the key skills required for each role:
+
+Business Development Executive (BDE)
+Experience: 1+ Year
+Key Skills: Lead generation, client communication, proposal writing, and sales strategies.
+
+React Native Developer
+Experience: 1+ Year
+Key Skills: Mobile app development, React Native framework, APIs, and debugging.
+
+Software Tester
+Experience: 1+ Year
+Key Skills: Test case creation, bug reporting, software testing methodologies, and QA processes.
+2024-12-19 05:13:06,335 - INFO - Asked ChatGPT in chatgpt workflow: how many open positions availabe and  what are the skills for each role
+2024-12-19 05:13:13,205 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2024-12-19 05:13:31,129 - INFO - Received and saved PDF: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2024-12-19 05:13:31,754 - INFO - Extracted text from PDF: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2024-12-19 05:13:32,081 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-19 05:13:34,569 - INFO - User 1223603125 selected ChatGPT
+2024-12-19 05:14:12,185 - INFO - error_code=context_length_exceeded error_message="This model's maximum context length is 16385 tokens. However, your messages resulted in 35404 tokens. Please reduce the length of the messages." error_param=messages error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2024-12-19 05:14:12,187 - ERROR - Error interacting with ChatGPT: This model's maximum context length is 16385 tokens. However, your messages resulted in 35404 tokens. Please reduce the length of the messages.
+2024-12-19 05:14:12,876 - INFO - Asked ChatGPT in chatgpt workflow: how many posts available listout those and number of vacancy for each post
+2024-12-19 05:17:31,971 - INFO - Bot is running...
+2024-12-19 05:19:09,685 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-19 05:19:10,890 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-19 05:19:11,203 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-19 05:19:16,029 - INFO - User 1223603125 selected ChatGPT
+2024-12-19 05:19:31,410 - INFO - ChatGPT Response: The key skills for the Software Tester role mentioned in the job posting are:
+
+1. Test case creation
+2. Bug reporting
+3. Software testing methodologies
+4. QA processes
+
+These skills are important for ensuring the quality and functionality of software products being developed.
+2024-12-19 05:19:32,293 - INFO - Asked ChatGPT in chatgpt workflow: what is the key skills for software tester role
+2024-12-19 05:19:40,033 - INFO - User 1223603125 chose 'Yes', continuing chatgpt workflow.
+2024-12-19 05:19:48,272 - INFO - ChatGPT Response: To share your resume, you can send it to diwankshi@jcsoftwaresolution.com or tanvisharma@softwaresolution.com.
+2024-12-19 05:19:49,010 - INFO - Asked ChatGPT in chatgpt workflow: what the email id to share resume
+2024-12-19 05:19:51,313 - INFO - User 1223603125 chose 'Yes', continuing chatgpt workflow.
+2024-12-19 05:20:08,947 - INFO - ChatGPT Response: There are currently three open positions available at JC Software Solution in Mohali (onsite). Below are the positions along with the required key skills:
+
+1. Business Development Executive (BDE)
+   - Experience: 1+ Year
+   - Key Skills: Lead generation, client communication, proposal writing, and sales strategies.
+
+2. React Native Developer
+   - Experience: 1+ Year
+   - Key Skills: Mobile app development, React Native framework, APIs, and debugging.
+
+3. Software Tester
+   - Experience: 1+ Year
+   - Key Skills: Test case creation, bug reporting, software testing methodologies, and QA processes.
+
+Local candidates are preferred for these positions. If you are interested, you can send your resume to diwankshi@jcsoftwaresolution.com or tanvisharma@softwaresolution.com.
+2024-12-19 05:20:09,637 - INFO - Asked ChatGPT in chatgpt workflow: how many vacancies available and what are the skills required
+2024-12-19 05:20:24,500 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2024-12-19 05:20:44,314 - INFO - Received and saved PDF: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2024-12-19 05:20:45,127 - INFO - Extracted text from PDF: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2024-12-19 05:20:45,511 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-19 05:25:56,407 - INFO - User 1223603125 selected Open Source QA
+2024-12-20 01:25:11,598 - INFO - Bot is running...
+2024-12-20 01:25:23,686 - INFO - Sent welcome message to 1223603125
+2024-12-20 01:25:28,067 - INFO - Sent welcome message to 1223603125
+2024-12-20 01:26:53,280 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-20 01:26:54,903 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-20 01:26:55,232 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-20 01:26:56,911 - INFO - User 1223603125 selected ChatGPT
+2024-12-20 01:27:12,938 - INFO - ChatGPT Response: There are three open positions available at JC Software Solution:
+
+1. Business Development Executive (BDE)
+   Key Skills: Lead generation, client communication, proposal writing, and sales strategies.
+
+2. React Native Developer
+   Key Skills: Mobile app development, React Native framework, APIs, and debugging.
+
+3. Software Tester
+   Key Skills: Test case creation, bug reporting, software testing methodologies, and QA processes.
+2024-12-20 01:27:13,566 - INFO - Asked ChatGPT in chatgpt workflow: how many open positions available and wht are the skills
+2024-12-20 01:27:23,350 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2024-12-20 01:27:47,935 - INFO - Received and saved PDF: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2024-12-20 01:27:48,528 - INFO - Extracted text from PDF: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2024-12-20 01:27:48,831 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-20 01:27:55,232 - INFO - User 1223603125 selected ChatGPT
+2024-12-20 01:28:05,940 - INFO - error_code=rate_limit_exceeded error_message='Request too large for gpt-4 in organization org-8iryk1HWt9i8p6EHqIGyKDiY on tokens per min (TPM): Limit 10000, Requested 32324. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.' error_param=None error_type=tokens message='OpenAI API error received' stream_error=False
+2024-12-20 01:28:05,940 - ERROR - Error interacting with ChatGPT: Request too large for gpt-4 in organization org-8iryk1HWt9i8p6EHqIGyKDiY on tokens per min (TPM): Limit 10000, Requested 32324. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.
+2024-12-20 01:28:06,593 - INFO - Asked ChatGPT in chatgpt workflow: how many posts available and listout
+2024-12-20 01:28:25,763 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2024-12-20 02:04:06,611 - INFO - Received and saved PDF: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2024-12-20 02:04:07,233 - INFO - Extracted text from PDF: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2024-12-20 02:04:07,536 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-20 02:04:09,876 - INFO - User 1223603125 selected ChatGPT
+2024-12-20 02:04:17,394 - INFO - error_code=rate_limit_exceeded error_message='Request too large for gpt-4 in organization org-8iryk1HWt9i8p6EHqIGyKDiY on tokens per min (TPM): Limit 10000, Requested 32322. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.' error_param=None error_type=tokens message='OpenAI API error received' stream_error=False
+2024-12-20 02:04:17,394 - ERROR - Error interacting with ChatGPT: Request too large for gpt-4 in organization org-8iryk1HWt9i8p6EHqIGyKDiY on tokens per min (TPM): Limit 10000, Requested 32322. The input or output tokens must be reduced in order to run successfully. Visit https://platform.openai.com/account/rate-limits to learn more.
+2024-12-20 02:04:18,064 - INFO - Asked ChatGPT in chatgpt workflow: how many positions available
+2024-12-20 02:20:23,875 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2024-12-20 02:25:01,169 - INFO - Bot is running...
+2024-12-20 02:25:06,294 - INFO - Sent welcome message to 1223603125
+2024-12-20 02:25:31,063 - INFO - Received and saved PDF: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2024-12-20 02:25:31,671 - INFO - Extracted text from PDF: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2024-12-20 02:25:32,020 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-20 02:25:34,434 - INFO - User 1223603125 selected ChatGPT
+2024-12-20 02:25:57,219 - INFO - ChatGPT response for chunk 1: The Centralized Employment Notification (CEN) No.04/2024 by the Railway Recruitment Board (RRB), Ministry of Railways, Indian government, is an employment notice for various para-medical posts. The opening date for applications is August 17, 2024, and the closing date is September 16, 2024. They also provide a modification window from September 17, 2024, to September 26, 2024.
+
+There are many types of positions available, including Dietician, Nursing Superintendent, Audiologist & Speech Therapist, Clinical Psychologist, Dental Hygienist, Dialysis Technician, Health & Malaria Inspector, Laboratory Superintendent, Perfusionist and many more.
+
+An age relaxation of three years due to the Covid-19 pandemic is available. Candidates must possess the required educational/technical/professional qualifications for the post before the closing date of application. It is explicitly stated that candidates waiting for final results are not eligible to apply.
+
+There is a negative marking of 1/3rd mark for every wrong answer in the Computer-Based Test (CBT) and banned items such as communication devices and electronic gadgets, stationery items, etc., are not allowed in the exam hall. Any violation of this rule will lead to disqualification and a ban from future exams.
+
+Please use your active mobile number and valid personal email ID for all communications during the entire recruitment process. Changes can be made to the application with a fee of Rs. 250/- but some details like 'Create an Account' form (including Email ID and mobile number) and Chosen RRB cannot be changed.
+
+Finally, candidates should ensure that they fulfill all the eligibility norms including age, educational qualifications, and medical standards before applying. Multiple applications for the same post will be rejected.
+2024-12-20 02:26:00,141 - INFO - ChatGPT response for chunk 2: I'm sorry, but as an artificial intelligence, I don't have the ability to write in running handwriting or in block/capital letters. If you have other questions or need further assistance, please feel free to ask.
+2024-12-20 02:27:14,020 - INFO - ChatGPT response for chunk 3: This Centralized Employment Notice informs regarding the qualifications, examination fee, modes of payment, categories for minorities and Economically Backward Class (EBC), and reservation policies for this employment opportunity. 
+
+Candidates must have the necessary qualifications as mentioned in Annexure-A, issued by a recognized Board/University/Institute by the closing date for online registration, which is 16.09.2024. Those waiting for results should not apply.
+
+The examination fee is Rs 500/- for general candidates, with Rs 400/- being refunded after deduction of bank charges upon appearing in CBT. For SC, ST, Ex-Servicemen, PwBD, Female, Transgender, Minorities, or Economically Backward Class candidates, the fee is Rs 250/-. 
+
+The fee payment can only be made online and any applications without the prescribed fee will be rejected. 
+
+Vertical and Horizontal Reservations are present for EWS, SC, ST, OBC-NCL, Ex-Servicemen, and PwBD candidates. There are conditions in place for EWS and OBC-NCL candidates regarding the gross annual income and property ownership of the family. The reservation certificates must be presented alongside other necessary details during Document Verification.
+
+Ex-Servicemen have to go through certain criteria to be considered valid for reservation. This includes having served in any rank of the regular Army, Navy, or Air Force of India, and must have been retired, relieved, or discharged from service.
+2024-12-20 02:27:24,919 - INFO - ChatGPT response for chunk 4: This text appears to be an excerpt from a Centralized Employment Notice for positions in the Indian Railway System.
+
+It details eligibility criteria and the process of recruitment for different categories of candidates, including Ex-Servicemen, persons with disabilities, and current government employees:
+
+1. Ex-Servicemen: This includes persons who have been released from military service or those who are due for release within a year of the application closing date. There are also specific guidelines for those who have already secured civil employment under Central Government.
+
+2. Persons with Benchmark Disabilities: Posts suitable for candidates with disabilities are precisely indicated. Details on the degree of disability required for relaxation, engaging a scribe, and the medical examination process are outlined.
+
+3. No Objection Certificate from Present Employer: Candidates currently serving in any Central/State Government Department, including Railways or Public Sector Undertakings, need to inform their employer and provide an NOC at the time of document verification.
+
+The recruitment process involves a central computer-based test (CBT), for which the format, duration, and examination content are detailed. This is followed by document verification.
+
+Candidates are shortlisted for document verification based on their CBT performance, relative to minimum qualifying marks set for their communities. After the document verification process, candidates are empaneled based on their CBT scores and then subjected to a medical examination. Successful candidates are referred to the respective Railway/Production Unit for the final appointment and verification process. Candidates must follow test instructions, and they are not allowed to use calculators or other electronic gadgets during the examination.
+2024-12-20 02:27:39,574 - INFO - ChatGPT response for chunk 5: The information provided in the long passage explains the process of applying for a railway recruitment process. Some important points from the passage include:
+
+1. The candidates are shortlisted for Document Verification based on their marks and merit in the Computer Based Test (CBT).
+2. In case two or more candidates secure equal marks, their merit position is determined by their age, with the older candidate being given higher merit.
+3. The appointment of selected candidates is subject to their passing the required Medical Fitness Test and the verification of essential documents.
+4. Candidates are only allowed to apply to one Railway Recruitment Board (RRB) and should submit only one online application.
+5. The candidates must have necessary documents ready in digital format before applying, such as a recent color photograph, candidate's signature, and SC/ST Certificate if applicable.
+6. Candidates can use the services of the Common Services Centre for submitting online applications.
+7. The validity of the information provided in the application form must be verifiable with original documents.
+8. The application process includes creating an account, filling up the application form, making payment for the application fee, and receiving a confirmation of successful payment.
+9. The application can be modified after submission by paying a modification fee.
+10. Multiple applications or invalid applications will be rejected.
+11. The E-call letter or admit card for the CBT can be downloaded from the RRB websites about 4 days before the date of CBT.
+2024-12-20 02:28:10,575 - INFO - ChatGPT response for chunk 6: Yes 
+12th (10 + 2 stage) in Science plus (a) Diploma in Medical 
+Laboratory Technology (DMLT) (OR) (b) Certificate Course in 
+Medical Lab. Technology at par with) Diploma in Medical 
+Lab Technology (DMLT) subject to the fulfilment of (i) The 
+course has been done from the institution which is recognized 
+by a University or Technological Board of State Government/ 
+Central Government authority; (ii) The duration of the course is 
+at least 1 year; (iii) During the course the candidate should 
+have done the training on full time basis; and (iv) At the end 
+of the course, there should be system of examination which 
+has been successfully passed by the candidate.   
+8 
+LABORATORY 
+SUPERINTENDENT 
+(GRADE III) 
+6 
+35400 
+B1 
+18 
+36 
+No 
+No 
+OA, OL,  
+OAL,  
+BL, LC,  
+DW 
+No 
+No 
+B.Sc with Bio-Chemistry/Micro Biology/Life Science/B.Sc with 
+Chemistry and Biology as main or as optional/subsidiary 
+subjects or equivalent plus Diploma in Medical Lab technology 
+(DMLT) or equivalent (OR) B.Sc in Medical Technology 
+(Laboratory) from a recognized institution. 
+9 
+OCCUPATIONAL THERAPIST 
+6 
+35400 
+C1 
+18 
+36 
+No 
+No 
+OA, OL 
+No 
+No 
+Degree in Occupational Therapy from a recognized University 
+or equivalent. 
+10 
+OPTOMETRIST 
+4 
+25500 
+B1 
+18 
+36 
+B, LV 
+No 
+OA, OL,  
+OAL,  
+LC,  
+DW, AAV,  
+MD 
+No 
+Bachelor’s Degree in Optometry from a recognized 
+institute/university.  
+11 
+ORTHOTIST / 
+PROSTHETIST 
+6 
+35400 
+C1 
+18 
+36 
+No 
+No 
+OA, OL,  
+OAL,  
+BL, LC,  
+DW, AAV, 
+No 
+Diploma in Prosthetic/Orthotic Engineering from recognized 
+Institute/ University with minimum 60% aggregate marks in all 
+odd and even semester OR Degree in Prosthetic/Orthotic 
+Engineering or its equivalent from recognized Institute/ 
+University with minimum 50% aggregate marks
+2024-12-20 02:28:13,954 - INFO - ChatGPT response for chunk 7: I'm sorry, I think it would be better if you could specify the particular details you need assistance with from the information you provided. This data seems to be an employment announcement or job vacancies with respective qualifications and conditions. What exactly do you need help with?
+2024-12-20 02:28:18,061 - INFO - ChatGPT response for chunk 8: It appears that you've pasted a significant amount of information related to vacancies for a variety of posts across several sections of the railway service in different locations. How can I assist you with this information? Are you seeking a specific job role or location?
+2024-12-20 02:28:42,264 - INFO - ChatGPT response for chunk 9: 1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+18 
+9 
+PHYSIOTHERAPIST 
+GRADE II 
+CR 
+1 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+19 
+8
+PERFUSIONIST 
+CR 
+1 
+0 
+0 
+0 
+0 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+20 
+10 
+RADIOGRAPHER X-RAY 
+TECHNICIAN 
+CR 
+6 
+1 
+1 
+3 
+2 
+13 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+21 
+WR 
+1 
+0 
+0 
+0 
+1 
+2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+22 
+1 
+NURSING 
+SUPERINTENDENT 
+CR 
+103 
+47 
+20 
+74 
+16 
+260 
+25 
+0 
+0 
+11 
+0 
+0 
+0 
+23 
+WR 
+52 
+15 
+7 
+20 
+8 
+102 
+10 
+0 
+0 
+6 
+0 
+0 
+0 
+Total 
+208 
+76 
+34 
+116 
+32 
+466 
+44 
+1 
+1 
+19 
+0 
+0 
+0 
+
+The prior informaiton is recruitment data for various posts showing the number of vacancies in different categories and regions under the Centralized Employment Notice (CEN) No.04/2024. Each row represents a different job title and the corresponding number of vacancies broken down by category (Unreserved, Schedule Caste, Schedule Tribe, Other Backwards Class, Economically Weaker Sections). It shows posts for different Railways/Production Units with details like Total number of vacancies, vacancies reserved for Ex-Servicemen, Backlogs, and vacancies in different categories for Visually Impaired(VI), Hearing Impaired(HI) and Locomotor Disability needs(LD).
+2024-12-20 02:28:47,020 - INFO - ChatGPT response for chunk 10: I'm sorry but I cannot generate a response based on your previous messages as there are missing query or context. It looks like you might be listing vacancies for different positions across various Railways or PUs, along with category breakdown, vacancies, backlog details, etc. Can you provide a specific question or request in relation to the information you have provided?
+2024-12-20 02:28:47,237 - INFO - error_code=rate_limit_exceeded error_message='Rate limit reached for gpt-4 in organization org-8iryk1HWt9i8p6EHqIGyKDiY on tokens per min (TPM): Limit 10000, Used 7292, Requested 3987. Please try again in 7.674s. Visit https://platform.openai.com/account/rate-limits to learn more.' error_param=None error_type=tokens message='OpenAI API error received' stream_error=False
+2024-12-20 02:28:47,239 - ERROR - Error processing chunk 11: Rate limit reached for gpt-4 in organization org-8iryk1HWt9i8p6EHqIGyKDiY on tokens per min (TPM): Limit 10000, Used 7292, Requested 3987. Please try again in 7.674s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2024-12-20 02:28:47,345 - INFO - error_code=rate_limit_exceeded error_message='Rate limit reached for gpt-4 in organization org-8iryk1HWt9i8p6EHqIGyKDiY on tokens per min (TPM): Limit 10000, Used 7274, Requested 3277. Please try again in 3.306s. Visit https://platform.openai.com/account/rate-limits to learn more.' error_param=None error_type=tokens message='OpenAI API error received' stream_error=False
+2024-12-20 02:28:47,347 - ERROR - Error processing chunk 12: Rate limit reached for gpt-4 in organization org-8iryk1HWt9i8p6EHqIGyKDiY on tokens per min (TPM): Limit 10000, Used 7274, Requested 3277. Please try again in 3.306s. Visit https://platform.openai.com/account/rate-limits to learn more.
+2024-12-20 02:28:47,561 - ERROR - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is too long
+2024-12-20 02:28:47,564 - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\User\Bot\QAusingtelebot1\venv\lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\User\Bot\QAusingtelebot1\venv\lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\User\Bot\QAusingtelebot1\venv\lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\User\Bot\QAusingtelebot1\test11.py", line 206, in ask_chatgpt_query
+    bot.send_message(message.chat.id, f"ChatGPT Response:\n{response}")
+  File "C:\Users\User\Bot\QAusingtelebot1\venv\lib\site-packages\telebot\__init__.py", line 1800, in send_message
+    apihelper.send_message(
+  File "C:\Users\User\Bot\QAusingtelebot1\venv\lib\site-packages\telebot\apihelper.py", line 275, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\User\Bot\QAusingtelebot1\venv\lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\User\Bot\QAusingtelebot1\venv\lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is too long
+
+2024-12-20 03:04:05,724 - INFO - Bot is running...
+2024-12-20 03:05:55,060 - INFO - Sent welcome message to 1223603125
+2024-12-20 03:06:06,796 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-20 03:06:07,939 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-20 03:06:08,283 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-20 03:06:11,765 - INFO - User 1223603125 selected Open Source QA
+2024-12-20 03:06:27,094 - INFO - Answered question using Open Source QA: key skills needed for software tester
+2024-12-20 03:06:54,747 - INFO - Sent welcome message to 1223603125
+2024-12-20 03:07:06,203 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-20 03:07:07,391 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-20 03:07:07,704 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-20 03:07:09,597 - INFO - User 1223603125 selected ChatGPT
+2024-12-20 03:07:16,206 - INFO - ChatGPT response for chunk 1: The location for the job opportunities at JC Software Solution is Mohali. The jobs are on-site, meaning they are not remote positions.
+2024-12-20 03:07:54,159 - INFO - Bot is running...
+2024-12-20 03:07:56,219 - INFO - Sent welcome message to 1223603125
+2024-12-20 03:08:02,282 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-20 03:08:03,436 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-20 03:08:03,841 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-20 03:08:07,876 - INFO - User 1223603125 selected Open Source QA
+2024-12-20 03:08:12,880 - INFO - Answered question using Open Source QA: job location
+2024-12-20 03:08:13,481 - INFO - Answered user query in opensource workflow: job location
+2024-12-20 03:08:31,575 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-20 03:08:54,535 - INFO - Answered question using Open Source QA: what is the software tester experience
+2024-12-20 03:08:55,223 - INFO - Answered user query in opensource workflow: what is the software tester experience
+2024-12-26 02:27:02,187 - INFO - Bot is running...
+2024-12-26 02:28:21,022 - INFO - Sent welcome message to 1223603125
+2024-12-26 05:22:41,076 - INFO - Bot is running...
+2024-12-26 05:22:52,760 - INFO - Sent welcome message to 1223603125
+2024-12-26 05:23:06,122 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-26 05:23:07,704 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-26 05:24:55,139 - INFO - Bot is running...
+2024-12-26 05:25:00,234 - INFO - Sent welcome message to 1223603125
+2024-12-26 05:25:06,935 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-26 05:25:08,391 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-26 05:36:55,249 - INFO - Use pytorch device_name: cpu
+2024-12-26 05:36:55,249 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-26 05:36:56,556 - INFO - Bot is running...
+2024-12-26 05:37:11,902 - INFO - Sent welcome message to 1223603125
+2024-12-26 05:37:17,812 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-26 05:37:19,104 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-26 05:39:59,362 - INFO - Use pytorch device_name: cpu
+2024-12-26 05:39:59,363 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-26 05:40:18,250 - INFO - Sent welcome message to 1223603125
+2024-12-26 05:40:26,717 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-26 05:40:27,829 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-26 05:40:28,338 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-26 05:40:34,920 - INFO - User 1223603125 selected Open Source QA
+2024-12-26 05:41:57,715 - INFO - Use pytorch device_name: cpu
+2024-12-26 05:41:57,715 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-26 05:42:00,244 - INFO - Sent welcome message to 1223603125
+2024-12-26 05:42:10,919 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-26 05:42:12,032 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-26 05:42:12,542 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-26 05:42:14,794 - INFO - User 1223603125 selected ChatGPT
+2024-12-26 05:42:20,784 - INFO - ChatGPT Response: The job location for these positions is in Mohali, and it is an onsite opportunity.
+2024-12-26 05:42:21,090 - INFO - Answered user query with ChatGPT: job location
+2024-12-26 05:42:36,181 - WARNING - User 1223603125 selected an invalid option.
+2024-12-26 05:43:15,093 - INFO - Sent welcome message to 1223603125
+2024-12-26 05:43:21,307 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-26 05:43:22,502 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-26 05:43:22,969 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-26 05:43:24,996 - INFO - User 1223603125 selected ChatGPT
+2024-12-26 05:43:30,335 - INFO - ChatGPT Response: The job location for the mentioned positions is Mohali, and it is an onsite location. Local candidates are preferred for these job openings.
+2024-12-26 05:43:30,642 - INFO - Answered user query with ChatGPT: job location
+2024-12-26 05:43:45,151 - WARNING - User 1223603125 selected an invalid option.
+2024-12-26 05:49:31,560 - INFO - Use pytorch device_name: cpu
+2024-12-26 05:49:31,560 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-12-26 05:49:55,623 - INFO - Sent welcome message to 1223603125
+2024-12-26 05:50:01,747 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-26 05:50:03,091 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-26 05:50:03,308 - INFO - Stored text in FAISS index.
+2024-12-26 05:50:03,625 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-26 05:50:07,184 - INFO - User 1223603125 selected OpenSource QA
+2024-12-26 05:50:16,412 - INFO - Answered user query in opensource workflow: job location
+2024-12-26 05:50:22,979 - INFO - User 1223603125 chose to continue.
+2024-12-26 05:50:35,536 - INFO - Answered user query in opensource workflow: experience needed?
+2024-12-26 05:50:41,758 - INFO - User 1223603125 chose to stop.
+2024-12-26 05:50:45,986 - INFO - Sent welcome message to 1223603125
+2024-12-26 05:50:52,502 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-26 05:50:53,749 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-26 05:50:53,817 - INFO - Stored text in FAISS index.
+2024-12-26 05:50:54,260 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-26 05:50:56,587 - INFO - User 1223603125 selected ChatGPT
+2024-12-26 05:51:01,686 - INFO - ChatGPT Response: The job location for the SDET position at Qualcomm is Hyderabad.
+2024-12-26 05:51:01,999 - INFO - ChatGPT responded to user query: job location
+2024-12-26 06:43:15,869 - INFO - Bot is running...
+2024-12-26 06:43:24,541 - INFO - Sent welcome message to 1223603125
+2024-12-26 06:43:31,681 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-26 06:43:33,026 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-26 06:43:33,357 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-26 06:43:36,280 - INFO - User 1223603125 selected Open Source QA (NER)
+2024-12-26 06:43:43,216 - INFO - Answered user query in opensource workflow (NER model): job location
+2024-12-26 06:43:51,041 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-26 06:43:56,587 - INFO - Answered user query in opensource workflow (NER model): experience
+2024-12-26 06:44:06,919 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-26 06:44:10,278 - INFO - Answered user query in opensource workflow (NER model): email id
+2024-12-26 06:44:34,681 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2024-12-26 06:44:41,638 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-26 06:44:42,909 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-26 06:44:43,228 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-26 06:44:44,875 - INFO - User 1223603125 selected ChatGPT
+2024-12-26 06:44:48,983 - INFO - ChatGPT Response: The job location for the SDET position at Qualcomm is in Hyderabad.
+2024-12-26 06:44:49,619 - INFO - Asked ChatGPT in chatgpt workflow: job location
+2024-12-26 06:44:51,338 - INFO - User 1223603125 chose 'Yes', continuing chatgpt workflow.
+2024-12-26 06:44:58,206 - INFO - ChatGPT Response: The job posting at Qualcomm is specifically looking for candidates with 1.5 to 3.5 years of experience in QA, development, or SDET roles. If you fall within this experience range and possess the required skills and qualifications mentioned in the posting, you could be a good fit for the position. It's recommended to review the job description thoroughly and consider applying if you meet the criteria outlined.
+2024-12-26 06:44:58,815 - INFO - Asked ChatGPT in chatgpt workflow: experience needed?
+2024-12-26 06:45:02,405 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2024-12-26 06:47:58,121 - INFO - Bot is running...
+2024-12-26 06:48:03,690 - INFO - Sent welcome message to 1223603125
+2024-12-26 06:48:09,531 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-26 06:48:10,793 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-26 06:48:11,095 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-26 06:48:13,088 - INFO - User 1223603125 selected Open Source QA (NER)
+2024-12-26 06:48:21,498 - INFO - Answered user query in opensource workflow (NER model): job location
+2024-12-26 06:48:35,405 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-26 06:48:43,343 - INFO - Answered user query in opensource workflow (NER model): FacebookAI/xlm-roberta-large   model name
+2024-12-26 06:48:45,533 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2024-12-26 07:57:36,525 - INFO - Sent welcome message to 1223603125
+2024-12-26 07:57:44,306 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-26 07:57:45,944 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-26 07:57:46,265 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-26 07:57:48,292 - INFO - User 1223603125 selected Open Source QA (NER)
+2024-12-26 07:57:53,204 - INFO - Answered user query in opensource workflow (NER model): job location
+2024-12-26 07:57:55,935 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2024-12-26 08:39:24,438 - INFO - Bot is running...
+2024-12-26 08:39:48,386 - INFO - Sent welcome message to 1223603125
+2024-12-26 08:39:55,495 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-26 08:39:56,823 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-26 08:39:57,127 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-26 08:39:58,629 - INFO - User 1223603125 selected Open Source QA (NER)
+2024-12-26 08:40:04,825 - INFO - Answered user query in opensource workflow (NER model): job location
+2024-12-26 08:40:13,650 - WARNING - User 1223603125 selected an invalid option after query.
+2024-12-27 01:30:44,813 - INFO - Bot is running...
+2024-12-27 01:30:46,154 - INFO - Sent welcome message to 1223603125
+2024-12-27 01:31:17,213 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-27 01:34:22,107 - INFO - Bot is running...
+2024-12-27 01:35:13,295 - INFO - Sent welcome message to 1223603125
+2024-12-27 01:35:26,191 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-27 01:35:27,900 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-27 01:35:28,217 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-27 01:35:30,426 - INFO - User 1223603125 selected Open-source QA
+2024-12-27 01:35:39,855 - INFO - Answered question using Open Source QA: what is the job location mentioned
+2024-12-27 01:36:31,591 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-27 01:36:32,828 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-27 01:36:33,213 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-27 01:36:35,339 - INFO - User 1223603125 selected Open-source QA
+2024-12-27 01:36:39,958 - INFO - Answered question using Open Source QA: experience
+2024-12-27 01:41:39,417 - INFO - Bot is running...
+2024-12-27 01:41:53,951 - INFO - Sent welcome message to 1223603125
+2024-12-27 01:42:03,140 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-27 01:42:04,259 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-27 01:42:04,577 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-27 01:42:07,360 - INFO - User 1223603125 selected Open-source QA
+2024-12-27 01:42:17,103 - INFO - Answered question using Open Source QA: what are the positions available
+2024-12-27 01:42:31,338 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-27 01:42:35,508 - INFO - User 1223603125 selected Open-source QA
+2024-12-27 01:42:42,014 - INFO - Answered question using Open Source QA: job roles
+2024-12-27 01:45:02,530 - INFO - Bot is running...
+2024-12-27 01:45:17,182 - INFO - Sent welcome message to 1223603125
+2024-12-27 01:45:24,842 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-27 01:45:25,969 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-27 01:45:26,268 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-27 01:45:28,431 - INFO - User 1223603125 selected Open Source QA
+2024-12-27 01:45:38,574 - INFO - Answered question using Open Source QA: what is the job location
+2024-12-27 01:45:39,480 - INFO - Answered user query in opensource workflow: what is the job location
+2024-12-27 01:45:59,382 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-27 01:46:04,619 - INFO - Answered question using Open Source QA: what is the company name
+2024-12-27 01:46:05,251 - INFO - Answered user query in opensource workflow: what is the company name
+2024-12-27 01:46:08,432 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-27 01:46:15,840 - INFO - Answered question using Open Source QA: where to send resume
+2024-12-27 01:46:16,479 - INFO - Answered user query in opensource workflow: where to send resume
+2024-12-27 01:46:19,940 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-27 01:46:26,777 - INFO - Answered question using Open Source QA: how many roles available
+2024-12-27 01:46:27,400 - INFO - Answered user query in opensource workflow: how many roles available
+2024-12-27 01:46:34,027 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-27 01:46:51,745 - INFO - Answered question using Open Source QA: expereince for react native developer
+2024-12-27 01:46:52,346 - INFO - Answered user query in opensource workflow: expereince for react native developer
+2024-12-27 01:48:45,095 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-27 01:48:53,417 - INFO - Answered question using Open Source QA: job location
+2024-12-27 01:48:54,056 - INFO - Answered user query in opensource workflow: job location
+2024-12-27 01:54:38,878 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2024-12-27 03:41:27,613 - INFO - Sent welcome message to 1223603125
+2024-12-27 03:41:41,902 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-27 03:41:43,213 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-27 03:41:43,563 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-27 03:41:49,838 - INFO - User 1223603125 selected Open Source QA
+2024-12-27 03:42:14,612 - INFO - Answered question using Open Source QA: job location
+2024-12-27 03:42:15,512 - INFO - Answered user query in opensource workflow: job location
+2024-12-27 03:42:33,734 - WARNING - User 1223603125 selected an invalid option after query.
+2024-12-27 03:42:42,095 - INFO - Sent welcome message to 1223603125
+2024-12-27 03:44:07,707 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-27 03:44:08,857 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-27 03:44:09,201 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-27 03:44:10,891 - INFO - User 1223603125 selected ChatGPT
+2024-12-27 03:44:24,790 - INFO - ChatGPT Response: The open positions available at JC Software Solution in Mohali are:
+
+1. Business Development Executive (BDE)
+2. React Native Developer
+3. Software Tester
+
+These positions require a minimum of 1 year of experience in their respective fields.
+2024-12-27 03:44:25,435 - INFO - Asked ChatGPT in chatgpt workflow: what are the positions available
+2024-12-31 02:09:50,715 - INFO - Bot is running...
+2024-12-31 02:10:01,434 - INFO - Sent welcome message to 1223603125
+2024-12-31 02:10:24,455 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2024-12-31 02:10:26,027 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2024-12-31 02:10:26,359 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2024-12-31 02:10:28,715 - INFO - User 1223603125 selected Open Source QA
+2024-12-31 02:10:35,785 - INFO - Answered question using Open Source QA: job location
+2024-12-31 02:10:36,433 - INFO - Answered user query in opensource workflow: job location
+2024-12-31 02:10:47,840 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-31 02:11:00,658 - INFO - Answered question using Open Source QA: other available positions
+2024-12-31 02:11:01,300 - INFO - Answered user query in opensource workflow: other available positions
+2024-12-31 02:11:04,216 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-31 02:11:15,421 - INFO - Answered question using Open Source QA: software tester  experience
+2024-12-31 02:11:16,089 - INFO - Answered user query in opensource workflow: software tester  experience
+2024-12-31 02:15:14,682 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-31 02:15:24,528 - INFO - Answered question using Open Source QA: what is the job location
+2024-12-31 02:15:25,155 - INFO - Answered user query in opensource workflow: what is the job location
+2024-12-31 02:21:16,074 - INFO - User 1223603125 chose 'Yes', continuing opensource workflow.
+2024-12-31 02:21:30,028 - INFO - Answered question using Open Source QA: what is the email id to send resume
+2024-12-31 02:21:30,692 - INFO - Answered user query in opensource workflow: what is the email id to send resume
+2025-01-02 00:48:49,487 - INFO - Use pytorch device_name: cpu
+2025-01-02 00:48:49,501 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-02 00:49:34,333 - INFO - Sent welcome message to 1223603125
+2025-01-02 00:49:57,466 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-02 00:49:59,169 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-02 00:49:59,362 - INFO - Stored text in FAISS index.
+2025-01-02 00:49:59,673 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 00:50:01,633 - INFO - User 1223603125 selected OpenSource QA
+2025-01-02 00:52:37,989 - INFO - Use pytorch device_name: cpu
+2025-01-02 00:52:37,990 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-02 00:52:44,601 - INFO - Sent welcome message to 1223603125
+2025-01-02 00:52:54,315 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-02 00:52:55,444 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-02 00:52:55,614 - INFO - Stored text in FAISS index.
+2025-01-02 00:52:55,943 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 00:52:57,767 - INFO - User 1223603125 selected OpenSource QA
+2025-01-02 00:53:08,101 - INFO - Answered user query in opensource workflow: job location
+2025-01-02 00:53:30,751 - INFO - User 1223603125 chose to stop.
+2025-01-02 00:53:37,396 - INFO - Sent welcome message to 1223603125
+2025-01-02 00:53:53,722 - INFO - Received and saved PDF: uploads\JP Morgan Terms _ Conditions 2024-2025 NEW (2).pdf
+2025-01-02 00:53:54,242 - INFO - Extracted text from PDF: uploads\JP Morgan Terms _ Conditions 2024-2025 NEW (2).pdf
+2025-01-02 00:53:54,942 - INFO - Stored text in FAISS index.
+2025-01-02 00:53:55,315 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 00:53:57,134 - INFO - User 1223603125 selected OpenSource QA
+2025-01-02 00:54:03,756 - INFO - Answered user query in opensource workflow: cataract surgery
+2025-01-02 00:54:22,881 - INFO - User 1223603125 chose to stop.
+2025-01-02 00:54:42,466 - INFO - Sent welcome message to 1223603125
+2025-01-02 01:45:06,835 - INFO - Use pytorch device_name: cpu
+2025-01-02 01:45:06,835 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-02 01:45:12,268 - INFO - Sent welcome message to 1223603125
+2025-01-02 01:45:23,911 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-02 01:45:25,283 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-02 01:45:25,490 - INFO - Stored text in FAISS index.
+2025-01-02 01:45:25,815 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 01:45:30,244 - INFO - User 1223603125 selected OpenSource QA
+2025-01-02 01:45:36,564 - INFO - Answered user query in opensource workflow: what is the job location
+2025-01-02 01:45:39,946 - INFO - User 1223603125 chose to continue.
+2025-01-02 01:45:45,455 - INFO - Answered user query in opensource workflow: experience
+2025-01-02 01:45:49,324 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-02 01:45:59,927 - INFO - Received and saved PDF: uploads\Policy Copy.pdf
+2025-01-02 01:46:00,614 - INFO - Extracted text from PDF: uploads\Policy Copy.pdf
+2025-01-02 01:46:05,875 - INFO - Stored text in FAISS index.
+2025-01-02 01:46:06,204 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 01:46:08,521 - INFO - User 1223603125 selected OpenSource QA
+2025-01-02 01:46:23,535 - INFO - Answered user query in opensource workflow: waiting time for cataract
+2025-01-02 01:46:31,424 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-02 01:52:13,927 - INFO - Use pytorch device_name: cpu
+2025-01-02 01:52:13,928 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-02 01:52:33,158 - INFO - Received and saved PDF: uploads\Policy Copy.pdf
+2025-01-02 01:52:33,786 - INFO - Extracted text from PDF: uploads\Policy Copy.pdf
+2025-01-02 01:52:38,126 - INFO - Stored text in FAISS index.
+2025-01-02 01:52:38,439 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 01:52:43,443 - INFO - User 1223603125 selected OpenSource QA
+2025-01-02 01:52:48,985 - ERROR - Threaded polling exception: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: text is too long
+2025-01-02 01:52:48,985 - ERROR - Exception traceback:
+Traceback (most recent call last):
+  File "C:\Users\User\Bot\QAusingtelebot1\venv\lib\site-packages\telebot\__init__.py", line 1235, in __threaded_polling
+    self.worker_pool.raise_exceptions()
+  File "C:\Users\User\Bot\QAusingtelebot1\venv\lib\site-packages\telebot\util.py", line 150, in raise_exceptions
+    raise self.exception_info
+  File "C:\Users\User\Bot\QAusingtelebot1\venv\lib\site-packages\telebot\util.py", line 93, in run
+    task(*args, **kwargs)
+  File "C:\Users\User\Bot\QAusingtelebot1\test12.py", line 215, in answer_user_query
+    bot.send_message(message.chat.id, f"Answer: {answer}")
+  File "C:\Users\User\Bot\QAusingtelebot1\venv\lib\site-packages\telebot\__init__.py", line 1800, in send_message
+    apihelper.send_message(
+  File "C:\Users\User\Bot\QAusingtelebot1\venv\lib\site-packages\telebot\apihelper.py", line 275, in send_message
+    return _make_request(token, method_url, params=payload, method='post')
+  File "C:\Users\User\Bot\QAusingtelebot1\venv\lib\site-packages\telebot\apihelper.py", line 168, in _make_request
+    json_result = _check_result(method_name, result)
+  File "C:\Users\User\Bot\QAusingtelebot1\venv\lib\site-packages\telebot\apihelper.py", line 195, in _check_result
+    raise ApiTelegramException(method_name, result, result_json)
+telebot.apihelper.ApiTelegramException: A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: text is too long
+
+2025-01-02 01:55:53,788 - INFO - Use pytorch device_name: cpu
+2025-01-02 01:55:53,788 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-02 01:55:58,693 - INFO - Sent welcome message to 1223603125
+2025-01-02 01:56:30,676 - INFO - Received and saved PDF: uploads\ETI_Leave_Policy.pdf
+2025-01-02 01:56:31,147 - INFO - Extracted text from PDF: uploads\ETI_Leave_Policy.pdf
+2025-01-02 01:56:31,744 - INFO - Stored text in FAISS index.
+2025-01-02 01:56:32,049 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 01:56:33,883 - INFO - User 1223603125 selected OpenSource QA
+2025-01-02 01:56:42,304 - INFO - Answered user query in opensource workflow: what are the leave policies
+2025-01-02 01:56:54,224 - INFO - User 1223603125 chose to continue.
+2025-01-02 01:56:57,007 - INFO - Answered user query in opensource workflow: No
+2025-01-02 01:56:59,741 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-02 01:57:18,960 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-02 01:57:19,819 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-02 01:57:19,880 - INFO - Stored text in FAISS index.
+2025-01-02 01:57:20,189 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 01:57:21,847 - INFO - User 1223603125 selected OpenSource QA
+2025-01-02 01:57:28,923 - INFO - Answered user query in opensource workflow: what are the available roles
+2025-01-02 01:58:10,645 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-02 01:58:18,485 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-02 01:58:19,373 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-02 01:58:19,425 - INFO - Stored text in FAISS index.
+2025-01-02 01:58:19,790 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 01:58:21,680 - INFO - User 1223603125 selected ChatGPT
+2025-01-02 01:58:31,784 - INFO - ChatGPT Response: The available roles at Unijob Solution are:
+1) Node.js Developer
+2) Flutter Developer
+3) Application Tester
+4) Full Stack Developer (Angular & PHP)
+2025-01-02 01:58:32,145 - INFO - ChatGPT responded to user query: what are the available roles
+2025-01-02 02:11:21,480 - INFO - Use pytorch device_name: cpu
+2025-01-02 02:11:21,480 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-02 02:11:23,940 - INFO - Sent welcome message to 1223603125
+2025-01-02 02:11:31,801 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-02 02:11:33,054 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-02 02:11:33,282 - INFO - Stored text in FAISS index.
+2025-01-02 02:11:33,650 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 02:11:35,411 - INFO - User 1223603125 selected OpenSource QA
+2025-01-02 02:11:39,673 - INFO - Answered user query in opensource workflow: job location
+2025-01-02 02:11:42,799 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-02 02:11:48,058 - INFO - Answered user query in opensource workflow: experience
+2025-01-02 02:11:51,115 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-02 02:11:56,626 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-02 02:11:57,865 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-02 02:11:57,956 - INFO - Stored text in FAISS index.
+2025-01-02 02:11:58,272 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 02:12:00,413 - INFO - User 1223603125 selected ChatGPT
+2025-01-02 02:12:05,315 - INFO - ChatGPT Response: The job location for the SDET position at Qualcomm is in Hyderabad.
+2025-01-02 02:12:05,767 - INFO - ChatGPT responded to user query: job location
+2025-01-02 02:12:06,086 - INFO - Answered user query in chatgpt workflow: job location
+2025-01-02 02:12:10,470 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-02 02:12:18,522 - INFO - ChatGPT Response: Based on the job description provided for the SDET position at Qualcomm, the following skills are required:
+
+1. **Experience in QA, Development, or SDET Roles**: Candidates should have 1.5 to 3.5 years of experience in software testing, development, or Software Development Engineer in Test (SDET) roles.
+
+2. **Bachelor's Degree in Computer Science or Related Field**: A degree in Computer Science or a related field is required to demonstrate the necessary foundational knowledge.
+
+3. **Proficiency in Programming Languages**: Candidates should have proficiency in programming languages such as Java, Python, or C++, as these are commonly used in test automation and infrastructure development.
+
+4. **Experience with Cloud Services**: Knowledge and experience with Cloud Services like AWS or Azure are essential, as the role involves working on scalable cloud services.
+
+5. **Hands-on Experience with API Automation Tools**: Candidates should have hands-on experience with API automation tools like RestAssured or Postman to validate complex architectures and APIs
+2025-01-02 02:12:18,870 - INFO - ChatGPT responded to user query: skills required
+2025-01-02 02:12:19,178 - INFO - Answered user query in chatgpt workflow: skills required
+2025-01-02 02:12:28,634 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-02 02:13:37,866 - INFO - Received and saved PDF: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2025-01-02 02:13:38,475 - INFO - Extracted text from PDF: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2025-01-02 02:13:46,627 - INFO - Stored text in FAISS index.
+2025-01-02 02:13:46,974 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 02:13:49,649 - INFO - User 1223603125 selected OpenSource QA
+2025-01-02 02:13:58,426 - INFO - Answered user query in opensource workflow: how many vacancies available
+2025-01-02 02:21:16,087 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-02 10:56:49,658 - INFO - Sent welcome message to 1223603125
+2025-01-02 10:57:03,427 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-02 10:57:04,830 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-02 10:57:05,050 - INFO - Stored text in FAISS index.
+2025-01-02 10:57:05,362 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 10:57:08,333 - INFO - User 1223603125 selected OpenSource QA
+2025-01-02 10:57:42,616 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-02 10:57:43,631 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-02 10:57:43,753 - INFO - Stored text in FAISS index.
+2025-01-02 10:57:44,081 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 10:57:45,314 - INFO - User 1223603125 selected OpenSource QA
+2025-01-02 11:03:49,027 - INFO - Sent welcome message to 1223603125
+2025-01-02 11:03:57,599 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-02 11:03:58,550 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-02 11:03:58,752 - INFO - Stored text in FAISS index.
+2025-01-02 11:03:59,068 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 11:04:00,421 - INFO - User 1223603125 selected OpenSource QA
+2025-01-02 11:04:58,939 - INFO - User 1223603125 ended the conversation.
+2025-01-02 11:05:07,072 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-02 11:05:07,862 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-02 11:05:07,937 - INFO - Stored text in FAISS index.
+2025-01-02 11:05:08,239 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 11:05:11,309 - INFO - User 1223603125 selected ChatGPT
+2025-01-02 11:05:15,458 - INFO - ChatGPT Response: Candidates who have completed their BA, Bcom, BBA, MA, BMS, BAF, BBI, or BMM graduation can apply for this opportunity.
+2025-01-02 11:06:02,256 - INFO - User 1223603125 ended the conversation.
+2025-01-02 11:06:13,581 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-02 11:06:14,722 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-02 11:06:14,841 - INFO - Stored text in FAISS index.
+2025-01-02 11:06:15,162 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-02 11:06:16,334 - INFO - User 1223603125 selected OpenSource QA
+2025-01-21 02:15:21,555 - INFO - Use pytorch device_name: cpu
+2025-01-21 02:15:21,555 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-21 02:25:30,876 - INFO - Use pytorch device_name: cpu
+2025-01-21 02:25:30,876 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-21 02:25:44,992 - INFO - Sent welcome message to 1223603125
+2025-01-21 02:26:34,638 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-21 02:26:35,206 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-21 02:26:36,263 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-21 02:26:36,525 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-21 02:26:36,673 - INFO - Stored text in FAISS index.
+2025-01-21 02:26:36,698 - INFO - Stored text in FAISS index.
+2025-01-21 02:26:36,993 - INFO - User 1223603125 completed file uploads, waiting for choice.
+2025-01-21 02:26:37,025 - INFO - User 1223603125 completed file uploads, waiting for choice.
+2025-01-21 02:26:57,429 - WARNING - User 1223603125 selected an invalid option.
+2025-01-21 02:26:57,464 - WARNING - User 1223603125 selected an invalid option.
+2025-01-21 02:27:25,717 - INFO - Sent welcome message to 1223603125
+2025-01-21 02:27:39,103 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-21 02:27:39,233 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-21 02:27:40,418 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-21 02:27:40,496 - INFO - Stored text in FAISS index.
+2025-01-21 02:27:40,543 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-21 02:27:40,624 - INFO - Stored text in FAISS index.
+2025-01-21 02:27:40,820 - INFO - User 1223603125 completed file uploads, waiting for choice.
+2025-01-21 02:27:40,949 - INFO - User 1223603125 completed file uploads, waiting for choice.
+2025-01-21 02:27:42,749 - INFO - User 1223603125 selected ChatGPT
+2025-01-21 02:27:42,799 - INFO - User 1223603125 selected ChatGPT
+2025-01-21 02:27:50,763 - INFO - ChatGPT Response: 1. Unijob Solution
+2. JC Software Solution
+2025-01-21 02:27:51,039 - INFO - ChatGPT Response: Sure, based on the information provided, the companies hiring for various positions are:
+
+1) Unijob Solution
+2) JC Software Solution
+2025-01-21 02:27:51,101 - INFO - ChatGPT responded to user query: list out the companies
+2025-01-21 02:27:51,337 - INFO - ChatGPT responded to user query: list out the companies
+2025-01-21 02:27:51,427 - INFO - Answered user query in chatgpt workflow: list out the companies
+2025-01-21 02:27:51,667 - INFO - Answered user query in chatgpt workflow: list out the companies
+2025-01-21 02:30:10,039 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-21 02:30:10,062 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-21 02:30:22,964 - INFO - ChatGPT Response: Vacancies available at Unijob Solution:
+1) Node.js Developer
+2) Flutter Developer
+3) Application Tester
+4) Full Stack Developer (Angular & PHP)
+
+Vacancies available at JC Software Solution:
+1) Business Development Executive (BDE)
+2) React Native Developer
+3) Software Tester
+2025-01-21 02:30:23,158 - INFO - ChatGPT Response: Here is the list of all vacancies available at Unijob Solution and JC Software Solution:
+
+Unijob Solution:
+1) Node.js Developer
+2) Flutter Developer
+3) Application Tester
+4) Full Stack Developer (Angular & PHP)
+
+JC Software Solution:
+1) Business Development Executive (BDE)
+2) React Native Developer
+3) Software Tester
+2025-01-21 02:30:23,286 - INFO - ChatGPT responded to user query: listout all vacancies available
+2025-01-21 02:30:23,477 - INFO - ChatGPT responded to user query: listout all vacancies available
+2025-01-21 02:30:23,605 - INFO - Answered user query in chatgpt workflow: listout all vacancies available
+2025-01-21 02:30:23,813 - INFO - Answered user query in chatgpt workflow: listout all vacancies available
+2025-01-21 02:33:27,435 - INFO - Use pytorch device_name: cpu
+2025-01-21 02:33:27,435 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-21 02:33:30,717 - INFO - Sent welcome message to 1223603125
+2025-01-21 02:33:30,739 - INFO - Sent welcome message to 1223603125
+2025-01-21 02:33:57,188 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-21 02:33:57,234 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-21 02:33:58,993 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-21 02:33:59,118 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-21 02:33:59,523 - INFO - Stored text in FAISS index.
+2025-01-21 02:33:59,528 - INFO - Stored text in FAISS index.
+2025-01-21 02:33:59,853 - INFO - User 1223603125 completed file uploads, waiting for choice.
+2025-01-21 02:33:59,892 - INFO - User 1223603125 completed file uploads, waiting for choice.
+2025-01-21 02:34:00,305 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-21 02:34:01,621 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-21 02:34:01,696 - INFO - Stored text in FAISS index.
+2025-01-21 02:34:02,013 - INFO - User 1223603125 completed file uploads, waiting for choice.
+2025-01-21 02:34:23,654 - INFO - User 1223603125 selected ChatGPT
+2025-01-21 02:34:23,744 - INFO - User 1223603125 selected ChatGPT
+2025-01-21 02:34:23,962 - INFO - User 1223603125 selected ChatGPT
+2025-01-21 02:34:48,824 - INFO - ChatGPT Response: The available jobs from UniJob Solution are:
+1) Node.js Developer
+2) Flutter Developer
+3) Application Tester
+4) Full Stack Developer (Angular & PHP)
+2025-01-21 02:34:48,904 - INFO - ChatGPT Response: The available job positions at Unijob Solution are:
+
+1) Node.js Developer
+2) Flutter Developer
+3) Application Tester
+4) Full Stack Developer (Angular & PHP)
+2025-01-21 02:34:49,179 - INFO - ChatGPT responded to user query: list out available jobs from unijob solutions
+2025-01-21 02:34:49,309 - INFO - ChatGPT responded to user query: list out available jobs from unijob solutions
+2025-01-21 02:34:49,528 - INFO - Answered user query in chatgpt workflow: list out available jobs from unijob solutions
+2025-01-21 02:34:49,650 - INFO - Answered user query in chatgpt workflow: list out available jobs from unijob solutions
+2025-01-21 02:34:51,024 - INFO - ChatGPT Response: The available jobs from Unijob Solution are:
+
+1) Node.js Developer
+2) Flutter Developer
+3) Application Tester
+4) Full Stack Developer (Angular & PHP)
+
+Experience required: 1-2 years
+Location: Pune
+Package: 25-30K
+Notice Period: Immediate to 15 days
+Qualification: BE/BTech (CS & IT), BSc/MSc CS, BCA/MCA
+Passout: 2020-2024
+
+Interested candidates can apply at contact@unijobsolution.com.
+2025-01-21 02:34:51,381 - INFO - ChatGPT responded to user query: list out available jobs from unijob solutions
+2025-01-21 02:34:51,685 - INFO - Answered user query in chatgpt workflow: list out available jobs from unijob solutions
+2025-01-21 02:36:58,492 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-21 02:36:58,531 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-21 02:36:58,905 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-21 02:37:22,221 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-21 02:37:23,352 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-21 02:37:23,434 - INFO - Stored text in FAISS index.
+2025-01-21 02:37:23,503 - INFO - Received and saved PDF: uploads\SmartCare-Damp-Proof.pdf
+2025-01-21 02:37:23,754 - INFO - User 1223603125 completed file uploads, waiting for choice.
+2025-01-21 02:37:24,010 - INFO - Extracted text from PDF: uploads\SmartCare-Damp-Proof.pdf
+2025-01-21 02:37:24,761 - INFO - Stored text in FAISS index.
+2025-01-21 02:37:25,087 - INFO - User 1223603125 completed file uploads, waiting for choice.
+2025-01-21 02:37:56,602 - WARNING - User 1223603125 selected an invalid option.
+2025-01-21 02:37:56,667 - WARNING - User 1223603125 selected an invalid option.
+2025-01-21 02:38:15,933 - INFO - Sent welcome message to 1223603125
+2025-01-21 02:38:29,511 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-21 02:38:30,634 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-21 02:38:30,701 - INFO - Stored text in FAISS index.
+2025-01-21 02:38:30,964 - INFO - Received and saved PDF: uploads\SmartCare-Damp-Proof.pdf
+2025-01-21 02:38:30,998 - INFO - User 1223603125 completed file uploads, waiting for choice.
+2025-01-21 02:38:31,387 - INFO - Extracted text from PDF: uploads\SmartCare-Damp-Proof.pdf
+2025-01-21 02:38:31,898 - INFO - Stored text in FAISS index.
+2025-01-21 02:38:32,202 - INFO - User 1223603125 completed file uploads, waiting for choice.
+2025-01-21 02:38:37,093 - INFO - User 1223603125 selected ChatGPT
+2025-01-21 02:38:37,148 - INFO - User 1223603125 selected ChatGPT
+2025-01-21 02:38:56,079 - INFO - ChatGPT Response: The product benefits of Asian Paints SmartCare Damp Proof, a fiber-reinforced elastomeric liquid-applied waterproofing membrane, include:
+
+1. **Waterproofing Protection**: Offers protection against positive hydrostatic pressure of up to 7 bars.
+2. **Crack Bridging**: Features unmatched crack bridging ability due to its elastomeric properties.
+3. **High Solar Reflectance**: The brilliant white color and thick coat provide high levels of heat reflectance.
+4. **Adhesion**: Exhibits strong adhesion to masonry substrates.
+5. **Surface Temperature Reduction**: Provides a reduction in surface temperature of up to 10°C, applicable for terraces and only in white shade.
+6. **Use & Maintenance**: Easy to apply with a single pack and straightforward re-coating process.
+7. **Mechanical Strength**: Reinforced with synthetic fibers for superior abrasion resistance.
+8. **Anti-Carbonation**: Resistance against CO2 diffusion, preventing the corrosion
+2025-01-21 02:38:56,433 - INFO - ChatGPT Response: The product benefits of the SmartCare Damp Proof paint mentioned in the document are:
+
+1. Waterproofing protection of up to 7 bars of positive hydrostatic pressure.
+2. Unmatched crack bridging ability due to elastomeric properties.
+3. High solar reflectance, resulting in high levels of heat reflectance.
+4. Strong adhesion to masonry substrates.
+5. Provides surface temperature reduction of up to 10°C.
+6. Reinforced with synthetic fibers for superior abrasion resistance.
+7. Excellent CO2 diffusion resistance, preventing corrosion of rebar within the concrete matrix.
+8. Comes with a warranty of 10 years for waterproofing on terraces and up to 10 years on vertical surfaces (warranty years on vertical surfaces depend on the top coat used).
+   
+These product benefits make the SmartCare Damp Proof paint an effective solution for waterproofing and protecting various surfaces.
+2025-01-21 02:38:56,449 - INFO - ChatGPT responded to user query: what are the product benefits of damp proof paint
+2025-01-21 02:38:56,775 - INFO - ChatGPT responded to user query: what are the product benefits of damp proof paint
+2025-01-21 02:38:56,797 - INFO - Answered user query in chatgpt workflow: what are the product benefits of damp proof paint
+2025-01-21 02:38:57,074 - INFO - Answered user query in chatgpt workflow: what are the product benefits of damp proof paint
+2025-01-21 02:39:37,837 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-21 02:39:37,883 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-21 02:39:52,604 - INFO - ChatGPT Response: The jobs available at Unijob Solution are:
+
+1) Node.js Developer
+2) Flutter Developer
+3) Application Tester
+4) Full Stack Developer (Angular & PHP)
+2025-01-21 02:39:52,661 - INFO - ChatGPT Response: Jobs available at Unijob are:
+
+1) Node.js Developer
+2) Flutter Developer
+3) Application Tester
+4) Full Stack Developer (Angular & PHP)
+2025-01-21 02:39:52,918 - INFO - ChatGPT responded to user query: list out jobs in unijob
+2025-01-21 02:39:52,968 - INFO - ChatGPT responded to user query: list out jobs in unijob
+2025-01-21 02:39:53,232 - INFO - Answered user query in chatgpt workflow: list out jobs in unijob
+2025-01-21 02:39:53,278 - INFO - Answered user query in chatgpt workflow: list out jobs in unijob
+2025-01-21 02:43:06,888 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-21 02:43:06,942 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-21 02:43:16,725 - INFO - ChatGPT Response: The technical data provided in the document includes various performance characteristics of the Asian Paints SmartCare Damp Proof product, tested as per ASTM standards. Here are some of the technical data points mentioned:
+
+1. Pull off Adhesion Strength: Minimum 1.5 MPa (S/F) on dry concrete.
+2. Tensile Strength: 1.5±0.15 Mpa at 14 days. 
+   At 30 days: 1.8±0.18 Mpa.
+3. % Elongation: 380 ± 10% for Horizontal surfaces at 14 days. 
+   For Vertical surfaces at 14 days: 220± 10%.
+4. Crack Bridging Ability: 3.5 ± 0.35 mm for Horizontal at 14 days.
+   For Vertical: 1.25 ± 0.125 mm at 14 days.
+5. Water Vapour Permeability: 4.1 g/m2
+2025-01-21 02:43:16,854 - INFO - ChatGPT Response: The technical data provided for the waterproofing product SmartCare Damp Proof includes various performance characteristics as per ASTM standards:
+
+1. Pull off Adhesion strength [ASTM D 4541] Dry concrete:
+- Minimum 1.5 MPa (S/F) MPa
+
+2. Tensile strength [ASTM D 2370/98: 14 days]:
+- 10: 1.5±0.15 Mpa
+- 30: 1.8± 0.18 Mpa
+
+3. %Elongation [ASTM D 2370/98: 14 days]:
+- 10: 380 ± 10% (Horizontal)
+- 30: 220± 10% (Vertical)
+
+4. Crack Bridging Ability [ASNZ 4548, 14 days]:
+- 10: 3.5 ± 0.35 mm for Horizontal
+- 30: 1.25 ± 0.125
+2025-01-21 02:43:17,050 - INFO - ChatGPT responded to user query: what are the technical data
+2025-01-21 02:43:17,202 - INFO - ChatGPT responded to user query: what are the technical data
+2025-01-21 02:43:17,355 - INFO - Answered user query in chatgpt workflow: what are the technical data
+2025-01-21 02:43:17,524 - INFO - Answered user query in chatgpt workflow: what are the technical data
+2025-01-21 02:43:30,793 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-21 02:43:30,822 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-21 02:43:44,578 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-21 02:43:45,714 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-21 02:43:45,786 - INFO - Stored text in FAISS index.
+2025-01-21 02:43:46,089 - INFO - User 1223603125 completed file uploads, waiting for choice.
+2025-01-21 02:43:46,108 - INFO - Received and saved PDF: uploads\SmartCare-Damp-Proof.pdf
+2025-01-21 02:43:46,547 - INFO - Extracted text from PDF: uploads\SmartCare-Damp-Proof.pdf
+2025-01-21 02:43:46,993 - INFO - Stored text in FAISS index.
+2025-01-21 02:43:47,339 - INFO - User 1223603125 completed file uploads, waiting for choice.
+2025-01-21 02:43:52,780 - INFO - User 1223603125 selected OpenSource QA
+2025-01-21 02:43:52,915 - INFO - User 1223603125 selected OpenSource QA
+2025-01-21 02:44:00,731 - INFO - Answered user query in opensource workflow: list out available jobs
+2025-01-21 02:44:00,782 - INFO - Answered user query in opensource workflow: list out available jobs
+2025-01-21 03:06:10,090 - INFO - Use pytorch device_name: cpu
+2025-01-21 03:06:10,090 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-21 03:06:16,996 - INFO - Sent welcome message to 1223603125
+2025-01-21 03:06:44,703 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-21 03:06:45,575 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-21 03:06:45,575 - INFO - Text extracted from image: uploads\image_1223603125.jpg
+2025-01-21 03:07:38,648 - INFO - Use pytorch device_name: cpu
+2025-01-21 03:07:38,650 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-21 03:07:41,791 - INFO - Sent welcome message to 1223603125
+2025-01-21 03:07:45,404 - INFO - Sent welcome message to 1223603125
+2025-01-21 03:07:57,976 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-21 03:07:58,089 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-21 03:07:59,341 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-21 03:07:59,341 - INFO - Text extracted from image: uploads\image_1223603125.jpg
+2025-01-22 01:47:13,945 - INFO - Use pytorch device_name: cpu
+2025-01-22 01:47:13,945 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-22 01:47:17,238 - INFO - Sent welcome message to 1223603125
+2025-01-22 01:47:36,478 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-22 01:47:37,881 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-22 01:47:38,099 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-22 01:47:38,099 - INFO - Text extracted from image: uploads\image_1223603125.jpg
+2025-01-22 01:50:21,866 - INFO - Use pytorch device_name: cpu
+2025-01-22 01:50:21,866 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-22 01:50:30,552 - INFO - Sent welcome message to 1223603125
+2025-01-22 01:50:41,913 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-22 01:50:42,089 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-22 01:50:42,820 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-22 01:50:42,820 - INFO - Text extracted from image: uploads\image_1223603125.jpg
+2025-01-22 01:58:21,414 - INFO - Use pytorch device_name: cpu
+2025-01-22 01:58:21,414 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-22 01:58:24,537 - INFO - User 1223603125 marked as done with file uploads.
+2025-01-22 01:58:24,869 - INFO - Prompting user 1223603125 for next action after uploading files.
+2025-01-22 01:59:14,555 - INFO - Use pytorch device_name: cpu
+2025-01-22 01:59:14,555 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-22 01:59:23,352 - INFO - Sent welcome message to 1223603125
+2025-01-22 01:59:41,233 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-22 01:59:41,460 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-22 01:59:42,630 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-22 01:59:42,824 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-22 01:59:42,885 - INFO - Stored text in FAISS index.
+2025-01-22 01:59:42,945 - INFO - Stored text in FAISS index.
+2025-01-22 01:59:48,084 - INFO - User 1223603125 marked as done with file uploads.
+2025-01-22 01:59:48,552 - INFO - Prompting user 1223603125 for next action after uploading files.
+2025-01-23 01:00:01,548 - INFO - Use pytorch device_name: cpu
+2025-01-23 01:00:01,548 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-23 01:00:29,597 - INFO - Sent welcome message to 1223603125
+2025-01-23 01:00:38,665 - INFO - Sent welcome message to 1223603125
+2025-01-23 01:00:48,286 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-23 01:00:50,017 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-23 01:00:50,565 - INFO - Stored text in FAISS index.
+2025-01-23 01:00:50,891 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-23 01:00:53,922 - INFO - User 1223603125 selected OpenSource QA
+2025-01-23 01:01:00,608 - INFO - Answered user query in opensource workflow: contact number
+2025-01-23 01:02:13,689 - INFO - Use pytorch device_name: cpu
+2025-01-23 01:02:13,689 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-23 01:02:19,825 - INFO - Sent welcome message to 1223603125
+2025-01-23 01:02:35,113 - INFO - Received and saved image: uploads\image_1223603125.jpg
+2025-01-23 01:02:36,359 - INFO - Extracted text from image: uploads\image_1223603125.jpg
+2025-01-23 01:02:36,567 - INFO - Stored text in FAISS index.
+2025-01-23 01:02:36,888 - INFO - User 1223603125 completed text extraction, waiting for choice.
+2025-01-23 01:02:38,890 - INFO - User 1223603125 selected OpenSource QA
+2025-01-23 01:02:44,061 - INFO - Answered user query in opensource workflow: job location
+2025-01-23 01:36:45,655 - INFO - Sent welcome message to 1223603125
+2025-01-23 01:37:33,108 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-23 01:37:33,673 - INFO - Received and saved image: uploads\image_1223603125_2.jpg
+2025-01-23 01:37:38,472 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-23 01:37:39,202 - INFO - Extracted text from image: uploads\image_1223603125_2.jpg
+2025-01-23 01:38:04,833 - INFO - Querying Gemini with question: what are the positions available in each company
+2025-01-23 01:38:04,834 - ERROR - Error querying Gemini: 'GenerativeModel' object has no attribute 'generate_text'
+2025-01-23 01:41:24,488 - INFO - Sent welcome message to 1223603125
+2025-01-23 01:41:35,281 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-23 01:41:35,608 - INFO - Received and saved image: uploads\image_1223603125_2.jpg
+2025-01-23 01:41:45,500 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-23 01:41:46,265 - INFO - Extracted text from image: uploads\image_1223603125_2.jpg
+2025-01-23 01:41:53,532 - INFO - Querying Gemini with question: what are the positions available in each company
+2025-01-23 01:41:53,532 - ERROR - Error querying Gemini: 'GenerativeModel' object has no attribute 'generate'
+2025-01-23 01:42:52,525 - INFO - Sent welcome message to 1223603125
+2025-01-23 01:43:00,375 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-23 01:43:00,638 - INFO - Received and saved image: uploads\image_1223603125_2.jpg
+2025-01-23 01:43:04,797 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-23 01:43:05,580 - INFO - Extracted text from image: uploads\image_1223603125_2.jpg
+2025-01-23 01:43:14,685 - INFO - Querying Gemini with question: what are the positions available in each company
+2025-01-23 01:46:39,939 - INFO - Sent welcome message to 1223603125
+2025-01-23 01:47:19,421 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-23 01:47:19,667 - INFO - Received and saved image: uploads\image_1223603125_2.jpg
+2025-01-23 01:47:24,155 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-23 01:47:24,921 - INFO - Extracted text from image: uploads\image_1223603125_2.jpg
+2025-01-23 01:48:04,575 - INFO - Querying Gemini with question: job location for each company
+2025-01-23 01:48:05,111 - INFO - User 1223603125 asked Gemini: job location for each company
+2025-01-23 01:48:05,853 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 01:48:09,517 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 01:48:20,491 - INFO - Querying Gemini with question: qualification for each company
+2025-01-23 01:48:21,233 - INFO - User 1223603125 asked Gemini: qualification for each company
+2025-01-23 01:48:21,894 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 01:48:31,530 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 01:48:49,095 - INFO - Querying Gemini with question: how to contact each company
+2025-01-23 01:48:49,657 - INFO - User 1223603125 asked Gemini: how to contact each company
+2025-01-23 01:48:50,293 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 01:48:57,066 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-23 01:53:41,016 - INFO - Sent welcome message to 1223603125
+2025-01-23 01:53:57,630 - INFO - Received and saved file: uploads\SmartCare-Damp-Proof-Xtreme_PIS.pdf
+2025-01-23 01:53:57,802 - INFO - Received and saved file: uploads\apex-ultima-new.pdf
+2025-01-23 01:54:14,362 - INFO - Extracted text from PDF: uploads\SmartCare-Damp-Proof-Xtreme_PIS.pdf
+2025-01-23 01:54:14,453 - INFO - Extracted text from PDF: uploads\apex-ultima-new.pdf
+2025-01-23 01:54:28,878 - INFO - Querying Gemini with question: what are the products available
+2025-01-23 01:54:31,704 - INFO - User 1223603125 asked Gemini: what are the products available
+2025-01-23 01:54:32,363 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 01:54:47,321 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 01:54:58,313 - INFO - Querying Gemini with question: price for apex ultima
+2025-01-23 01:54:59,109 - INFO - User 1223603125 asked Gemini: price for apex ultima
+2025-01-23 01:54:59,749 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 01:55:12,921 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 01:55:25,840 - INFO - Querying Gemini with question: how to apply damp proof
+2025-01-23 01:55:29,536 - INFO - User 1223603125 asked Gemini: how to apply damp proof
+2025-01-23 01:55:30,187 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 01:55:39,347 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-23 01:55:54,675 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-23 01:55:55,060 - INFO - Received and saved image: uploads\image_1223603125_2.jpg
+2025-01-23 01:55:55,890 - INFO - Received and saved image: uploads\image_1223603125_3.jpg
+2025-01-23 01:55:55,966 - INFO - Received and saved image: uploads\image_1223603125_4.jpg
+2025-01-23 01:56:00,519 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-23 01:56:00,939 - INFO - Extracted text from image: uploads\image_1223603125_2.jpg
+2025-01-23 01:56:01,415 - INFO - Extracted text from image: uploads\image_1223603125_3.jpg
+2025-01-23 01:56:02,108 - INFO - Extracted text from image: uploads\image_1223603125_4.jpg
+2025-01-23 01:56:15,599 - INFO - Querying Gemini with question: what are the companies listout
+2025-01-23 01:56:16,035 - INFO - User 1223603125 asked Gemini: what are the companies listout
+2025-01-23 01:56:16,680 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 01:56:21,189 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 01:56:26,183 - INFO - Querying Gemini with question: listout available positions
+2025-01-23 01:56:27,339 - INFO - User 1223603125 asked Gemini: listout available positions
+2025-01-23 01:56:27,983 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 01:56:44,520 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 01:56:51,989 - INFO - Querying Gemini with question: job location for each companies
+2025-01-23 01:56:52,669 - INFO - User 1223603125 asked Gemini: job location for each companies
+2025-01-23 01:56:53,562 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 01:57:12,233 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-23 02:03:41,451 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-23 02:03:41,850 - INFO - Received and saved image: uploads\image_1223603125_2.jpg
+2025-01-23 02:03:42,125 - INFO - Received and saved image: uploads\image_1223603125_3.jpg
+2025-01-23 02:03:42,483 - INFO - Received and saved image: uploads\image_1223603125_4.jpg
+2025-01-23 02:03:46,516 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-23 02:03:47,249 - INFO - Extracted text from image: uploads\image_1223603125_2.jpg
+2025-01-23 02:03:47,921 - INFO - Extracted text from image: uploads\image_1223603125_3.jpg
+2025-01-23 02:03:48,500 - INFO - Extracted text from image: uploads\image_1223603125_4.jpg
+2025-01-23 02:07:46,308 - INFO - Sent welcome message to 1223603125
+2025-01-23 02:08:00,403 - INFO - Received and saved file: uploads\SmartCare-Damp-Proof-Xtreme_PIS.pdf
+2025-01-23 02:08:00,637 - INFO - Received and saved file: uploads\apex-ultima-new.pdf
+2025-01-23 02:08:05,484 - INFO - Extracted text from PDF: uploads\SmartCare-Damp-Proof-Xtreme_PIS.pdf
+2025-01-23 02:08:05,578 - INFO - Extracted text from PDF: uploads\apex-ultima-new.pdf
+2025-01-23 02:08:20,826 - INFO - Querying Gemini with question: available quantities for each products
+2025-01-23 02:08:22,014 - INFO - User 1223603125 asked Gemini: available quantities for each products
+2025-01-23 02:08:22,720 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 02:08:28,042 - INFO - User 1223603125 choose to continue asking questions.
+2025-01-23 02:08:56,503 - INFO - Querying Gemini with question: application temprature for each
+2025-01-23 02:08:57,334 - INFO - User 1223603125 asked Gemini: application temprature for each
+2025-01-23 02:08:58,044 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 02:09:07,056 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-23 02:09:18,680 - INFO - Received and saved file: uploads\apex-ultima-new.pdf
+2025-01-23 02:09:18,735 - INFO - Received and saved file: uploads\SmartCare-Damp-Proof-Xtreme_PIS.pdf
+2025-01-23 02:09:22,899 - INFO - Extracted text from PDF: uploads\apex-ultima-new.pdf
+2025-01-23 02:09:22,965 - INFO - Extracted text from PDF: uploads\SmartCare-Damp-Proof-Xtreme_PIS.pdf
+2025-01-23 02:16:09,968 - INFO - Sent welcome message to 1223603125
+2025-01-23 02:16:24,408 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-23 02:16:24,676 - INFO - Received and saved image: uploads\image_1223603125_2.jpg
+2025-01-23 02:16:25,200 - INFO - Received and saved image: uploads\image_1223603125_3.jpg
+2025-01-23 02:16:25,393 - INFO - Received and saved image: uploads\image_1223603125_4.jpg
+2025-01-23 02:16:31,075 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-23 02:16:31,814 - INFO - Extracted text from image: uploads\image_1223603125_2.jpg
+2025-01-23 02:16:32,561 - INFO - Extracted text from image: uploads\image_1223603125_3.jpg
+2025-01-23 02:16:33,080 - INFO - Extracted text from image: uploads\image_1223603125_4.jpg
+2025-01-23 02:16:40,825 - INFO - Querying Gemini with question: listout companies
+2025-01-23 02:16:41,487 - INFO - User 1223603125 asked Gemini: listout companies
+2025-01-23 02:16:42,127 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 02:16:44,346 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-23 02:16:58,581 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-23 02:16:58,692 - INFO - Received and saved image: uploads\image_1223603125_2.jpg
+2025-01-23 02:16:59,385 - INFO - Received and saved image: uploads\image_1223603125_3.jpg
+2025-01-23 02:16:59,397 - INFO - Received and saved image: uploads\image_1223603125_4.jpg
+2025-01-23 02:17:06,357 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-23 02:17:07,249 - INFO - Extracted text from image: uploads\image_1223603125_2.jpg
+2025-01-23 02:17:07,916 - INFO - Extracted text from image: uploads\image_1223603125_3.jpg
+2025-01-23 02:17:08,405 - INFO - Extracted text from image: uploads\image_1223603125_4.jpg
+2025-01-23 02:23:41,124 - INFO - Sent welcome message to 1223603125
+2025-01-23 02:24:07,548 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-23 02:24:10,143 - INFO - Received and saved file: uploads\apex-ultima-new.pdf
+2025-01-23 02:24:10,161 - INFO - Received and saved file: uploads\SmartCare-Damp-Proof-Xtreme_PIS.pdf
+2025-01-23 02:24:11,601 - INFO - Received and saved file: uploads\SmartCare-Damp-Proof.pdf
+2025-01-23 02:24:18,968 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-23 02:24:19,079 - INFO - Extracted text from PDF: uploads\apex-ultima-new.pdf
+2025-01-23 02:24:19,182 - INFO - Extracted text from PDF: uploads\SmartCare-Damp-Proof-Xtreme_PIS.pdf
+2025-01-23 02:24:19,246 - INFO - Extracted text from PDF: uploads\SmartCare-Damp-Proof.pdf
+2025-01-23 02:24:43,991 - INFO - Querying Gemini with question: list out paint products names and jobs available
+2025-01-23 02:24:45,357 - INFO - User 1223603125 asked Gemini: list out paint products names and jobs available
+2025-01-23 02:24:46,143 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 02:25:04,548 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 02:25:08,870 - INFO - Querying Gemini with question: job location
+2025-01-23 02:25:09,296 - INFO - User 1223603125 asked Gemini: job location
+2025-01-23 02:25:09,919 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 02:25:13,342 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 02:25:22,894 - INFO - Querying Gemini with question: painting temprature
+2025-01-23 02:25:23,671 - INFO - User 1223603125 asked Gemini: painting temprature
+2025-01-23 02:25:24,384 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 02:25:35,849 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 02:25:54,749 - INFO - Querying Gemini with question: job required skills
+2025-01-23 02:25:55,987 - INFO - User 1223603125 asked Gemini: job required skills
+2025-01-23 02:25:56,625 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 02:26:58,002 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-23 02:27:07,366 - INFO - Received and saved file: uploads\apex-ultima-new.pdf
+2025-01-23 02:27:11,740 - INFO - Extracted text from PDF: uploads\apex-ultima-new.pdf
+2025-01-23 02:28:38,194 - INFO - Sent welcome message to 1223603125
+2025-01-23 02:28:59,006 - INFO - Received and saved file: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2025-01-23 02:29:02,568 - INFO - Extracted text from PDF: uploads\Detailed CEN 04-2024 Paramedical English.pdf
+2025-01-23 02:29:33,061 - INFO - Querying Gemini with question: what are the list of posts available
+2025-01-23 02:29:41,138 - INFO - User 1223603125 asked Gemini: what are the list of posts available
+2025-01-23 02:29:41,796 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 02:30:02,264 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 02:30:14,680 - INFO - Querying Gemini with question: what is the initial pay for optometrists
+2025-01-23 02:30:16,826 - INFO - User 1223603125 asked Gemini: what is the initial pay for optometrists
+2025-01-23 02:30:17,468 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 02:30:36,736 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 02:30:46,157 - INFO - Querying Gemini with question: total vacancies for ecg technicians
+2025-01-23 02:30:51,563 - INFO - User 1223603125 asked Gemini: total vacancies for ecg technicians
+2025-01-23 02:30:52,204 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 02:31:12,203 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 02:32:10,771 - INFO - Querying Gemini with question: what is the medical standard for field worker
+2025-01-23 02:32:12,845 - INFO - User 1223603125 asked Gemini: what is the medical standard for field worker
+2025-01-23 02:32:13,530 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 02:36:12,223 - WARNING - User 1223603125 selected an invalid option after query.
+2025-01-23 02:37:33,204 - INFO - Sent welcome message to 1223603125
+2025-01-23 02:37:50,416 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-23 02:37:52,172 - INFO - Received and saved file: uploads\apex-ultima-new.pdf
+2025-01-23 02:38:00,551 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-23 02:38:00,671 - INFO - Extracted text from PDF: uploads\apex-ultima-new.pdf
+2025-01-23 02:39:40,801 - INFO - Querying Gemini with question: what are the products and jobs available
+2025-01-23 02:39:42,326 - INFO - User 1223603125 asked Gemini: what are the products and jobs available
+2025-01-23 02:39:43,232 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 02:41:19,421 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 02:41:23,597 - INFO - Querying Gemini with question: job location
+2025-01-23 02:41:24,019 - INFO - User 1223603125 asked Gemini: job location
+2025-01-23 02:41:24,752 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 02:41:30,956 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 02:41:46,444 - INFO - Querying Gemini with question: what is the application temprature
+2025-01-23 02:41:46,914 - INFO - User 1223603125 asked Gemini: what is the application temprature
+2025-01-23 02:41:47,547 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 02:41:57,860 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 02:42:11,951 - INFO - Querying Gemini with question: what are the available quantity?
+2025-01-23 02:42:12,492 - INFO - User 1223603125 asked Gemini: what are the available quantity?
+2025-01-23 02:42:13,155 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 02:42:48,871 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-23 02:43:01,075 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-23 02:43:01,243 - INFO - Received and saved image: uploads\image_1223603125_2.jpg
+2025-01-23 02:43:01,764 - INFO - Received and saved image: uploads\image_1223603125_3.jpg
+2025-01-23 02:43:09,263 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-23 02:43:10,046 - INFO - Extracted text from image: uploads\image_1223603125_2.jpg
+2025-01-23 02:43:10,728 - INFO - Extracted text from image: uploads\image_1223603125_3.jpg
+2025-01-23 02:53:08,968 - INFO - Sent welcome message to 1223603125
+2025-01-23 05:06:19,620 - INFO - Sent welcome message to 1223603125
+2025-01-23 05:06:33,125 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-23 05:06:33,474 - INFO - Received and saved image: uploads\image_1223603125_2.jpg
+2025-01-23 05:06:38,111 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-23 05:06:39,016 - INFO - Extracted text from image: uploads\image_1223603125_2.jpg
+2025-01-23 05:08:37,836 - INFO - Sent welcome message to 1223603125
+2025-01-23 05:09:06,673 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-23 05:09:07,035 - INFO - Received and saved image: uploads\image_1223603125_2.jpg
+2025-01-23 05:09:11,504 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-23 05:09:12,313 - INFO - Extracted text from image: uploads\image_1223603125_2.jpg
+2025-01-23 05:10:03,244 - INFO - Querying Gemini with question: what are the positions available in  jc softwares
+2025-01-23 05:10:03,876 - INFO - User 1223603125 asked Gemini: what are the positions available in  jc softwares
+2025-01-23 05:10:04,556 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 05:10:18,531 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 05:10:30,812 - INFO - Querying Gemini with question: list out all jobs in  all companies
+2025-01-23 05:10:31,521 - INFO - User 1223603125 asked Gemini: list out all jobs in  all companies
+2025-01-23 05:10:32,402 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 05:10:57,120 - WARNING - User 1223603125 selected an invalid option after query.
+2025-01-23 05:11:58,223 - INFO - Sent welcome message to 1223603125
+2025-01-23 05:12:07,859 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-23 05:12:07,956 - INFO - Received and saved image: uploads\image_1223603125_2.jpg
+2025-01-23 05:12:12,993 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-23 05:12:13,770 - INFO - Extracted text from image: uploads\image_1223603125_2.jpg
+2025-01-23 05:12:22,076 - INFO - Querying Gemini with question: qualification for tester
+2025-01-23 05:12:22,704 - INFO - User 1223603125 asked Gemini: qualification for tester
+2025-01-23 05:12:23,508 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 05:13:38,332 - INFO - Sent welcome message to 1223603125
+2025-01-23 05:14:05,111 - INFO - Received and saved file: uploads\Detailed CEN 04-2024 Paramedical English (1).pdf
+2025-01-23 05:14:10,686 - INFO - Extracted text from PDF: uploads\Detailed CEN 04-2024 Paramedical English (1).pdf
+2025-01-23 05:14:27,446 - INFO - Querying Gemini with question: list out all job posts available
+2025-01-23 05:14:31,063 - INFO - User 1223603125 asked Gemini: list out all job posts available
+2025-01-23 05:14:31,691 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 05:15:20,811 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 05:15:32,437 - INFO - Querying Gemini with question: speech therapist initial pay and age
+2025-01-23 05:15:34,912 - INFO - User 1223603125 asked Gemini: speech therapist initial pay and age
+2025-01-23 05:15:35,533 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 05:16:57,187 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 05:17:00,157 - INFO - Querying Gemini with question: qualification for speech therapist
+2025-01-23 05:17:02,817 - INFO - User 1223603125 asked Gemini: qualification for speech therapist
+2025-01-23 05:17:03,497 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 05:18:07,202 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 05:18:31,280 - INFO - Querying Gemini with question: any post for low vision
+2025-01-23 05:18:35,421 - INFO - User 1223603125 asked Gemini: any post for low vision
+2025-01-23 05:18:36,134 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 05:20:19,236 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 05:20:33,725 - INFO - Querying Gemini with question: how many posts
+2025-01-23 05:20:35,879 - INFO - User 1223603125 asked Gemini: how many posts
+2025-01-23 05:20:36,644 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 05:20:45,962 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 05:20:53,769 - INFO - Querying Gemini with question: how many posts for Low vision
+2025-01-23 05:20:56,745 - INFO - User 1223603125 asked Gemini: how many posts for Low vision
+2025-01-23 05:20:57,379 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 05:22:12,948 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 05:22:35,289 - INFO - Querying Gemini with question: nursing suprendent for LD
+2025-01-23 05:22:37,704 - INFO - User 1223603125 asked Gemini: nursing suprendent for LD
+2025-01-23 05:22:38,375 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 05:23:49,444 - WARNING - User 1223603125 selected an invalid option after query.
+2025-01-23 05:24:46,161 - INFO - Sent welcome message to 1223603125
+2025-01-23 05:25:04,503 - INFO - Received and saved file: uploads\Detailed CEN 04-2024 Paramedical English (1).pdf
+2025-01-23 05:25:19,069 - INFO - Extracted text from PDF: uploads\Detailed CEN 04-2024 Paramedical English (1).pdf
+2025-01-23 05:26:29,135 - INFO - Querying Gemini with question: nursing suprendent posts available in RRB ranchi for LD
+2025-01-23 05:26:33,830 - INFO - User 1223603125 asked Gemini: nursing suprendent posts available in RRB ranchi for LD
+2025-01-23 05:26:34,798 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 05:48:53,626 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 05:49:32,334 - INFO - Querying Gemini with question: manavalarchi kuraipaduku velai iruka
+2025-01-23 05:49:35,737 - INFO - User 1223603125 asked Gemini: manavalarchi kuraipaduku velai iruka
+2025-01-23 05:49:36,626 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 05:50:07,692 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 05:50:24,588 - INFO - Querying Gemini with question: parvaiattravargaluku velai iruka
+2025-01-23 05:50:27,583 - INFO - User 1223603125 asked Gemini: parvaiattravargaluku velai iruka
+2025-01-23 05:50:28,317 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 05:50:44,019 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 05:51:03,141 - INFO - Querying Gemini with question: paarvai atravargaluku velai iruka
+2025-01-23 05:51:05,554 - INFO - User 1223603125 asked Gemini: paarvai atravargaluku velai iruka
+2025-01-23 05:51:06,219 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 05:52:04,944 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 05:52:12,332 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 05:53:46,071 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-23 05:54:10,384 - INFO - Querying Gemini with question: None
+2025-01-23 05:54:12,625 - INFO - User 1223603125 asked Gemini: None
+2025-01-23 05:54:13,313 - INFO - Prompted user 1223603125 for another question.
+2025-01-23 06:42:49,891 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-26 22:09:42,692 - INFO - Sent welcome message to 1223603125
+2025-01-26 22:09:59,325 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-26 22:09:59,777 - INFO - Received and saved image: uploads\image_1223603125_2.jpg
+2025-01-26 22:10:03,944 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-26 22:10:04,695 - INFO - Extracted text from image: uploads\image_1223603125_2.jpg
+2025-01-26 22:10:23,474 - INFO - Querying Gemini with question: contact numbers
+2025-01-26 22:10:24,074 - INFO - User 1223603125 asked Gemini: contact numbers
+2025-01-26 22:10:24,772 - INFO - Prompted user 1223603125 for another question.
+2025-01-26 22:10:34,211 - WARNING - User 1223603125 selected an invalid option after query.
+2025-01-26 22:15:19,696 - INFO - Sent welcome message to 1223603125
+2025-01-26 22:15:30,418 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-26 22:15:35,255 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-26 22:15:43,137 - INFO - Querying Gemini with question: skills
+2025-01-26 22:15:44,241 - INFO - User 1223603125 asked Gemini: skills
+2025-01-26 22:15:44,899 - INFO - Prompted user 1223603125 for another question.
+2025-01-26 22:15:51,152 - WARNING - User 1223603125 selected an invalid option: contact. Re-prompting.
+2025-01-26 22:15:53,412 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-26 22:15:59,986 - INFO - Querying Gemini with question: contact
+2025-01-26 22:16:00,466 - INFO - User 1223603125 asked Gemini: contact
+2025-01-26 22:16:01,153 - INFO - Prompted user 1223603125 for another question.
+2025-01-26 22:16:03,545 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-26 22:16:14,227 - INFO - Querying Gemini with question: experience
+2025-01-26 22:16:14,538 - INFO - User 1223603125 asked Gemini: experience
+2025-01-26 22:16:15,225 - INFO - Prompted user 1223603125 for another question.
+2025-01-26 22:16:26,246 - WARNING - User 1223603125 selected an invalid option: company anme. Re-prompting.
+2025-01-26 22:16:28,260 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-26 22:16:33,837 - INFO - Querying Gemini with question: what is the company name
+2025-01-26 22:16:34,368 - INFO - User 1223603125 asked Gemini: what is the company name
+2025-01-26 22:16:35,008 - INFO - Prompted user 1223603125 for another question.
+2025-01-26 22:17:03,776 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-26 22:17:30,972 - INFO - Sent welcome message to 1223603125
+2025-01-26 22:27:10,569 - INFO - Sent welcome message to 1223603125
+2025-01-26 22:27:22,856 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-26 22:27:27,820 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-26 22:27:39,223 - INFO - Querying Gemini with question: list of availabel jobs
+2025-01-26 22:27:39,633 - INFO - User 1223603125 asked Gemini: list of availabel jobs
+2025-01-26 22:27:40,408 - INFO - Prompted user 1223603125 for another question.
+2025-01-26 22:27:48,713 - WARNING - User 1223603125 selected an invalid option: yess. Re-prompting.
+2025-01-26 22:27:50,602 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-26 22:27:54,185 - INFO - Querying Gemini with question: email
+2025-01-26 22:27:54,619 - INFO - User 1223603125 asked Gemini: email
+2025-01-26 22:27:55,381 - INFO - Prompted user 1223603125 for another question.
+2025-01-26 22:28:11,943 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-26 23:07:05,310 - INFO - Sent welcome message with options to 1223603125
+2025-01-26 23:07:15,238 - INFO - User 1223603125 chose to continue the previous chat.
+2025-01-26 23:08:16,993 - INFO - Sent welcome message with options to 1223603125
+2025-01-26 23:08:18,866 - INFO - User 1223603125 chose to upload new files.
+2025-01-26 23:08:31,493 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-26 23:08:32,194 - INFO - Received and saved image: uploads\image_1223603125_2.jpg
+2025-01-26 23:08:35,384 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-26 23:08:36,259 - INFO - Extracted text from image: uploads\image_1223603125_2.jpg
+2025-01-26 23:08:42,304 - INFO - Querying Gemini with question: email
+2025-01-26 23:08:42,975 - INFO - User 1223603125 asked Gemini: email
+2025-01-26 23:08:43,616 - INFO - Prompted user 1223603125 for another question.
+2025-01-26 23:08:49,029 - WARNING - User 1223603125 selected an invalid option: phone number. Re-prompting.
+2025-01-26 23:08:50,633 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-26 23:08:53,682 - INFO - Querying Gemini with question: phone number
+2025-01-26 23:08:54,182 - INFO - User 1223603125 asked Gemini: phone number
+2025-01-26 23:08:54,847 - INFO - Prompted user 1223603125 for another question.
+2025-01-26 23:09:00,029 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-26 23:42:01,147 - INFO - Creating a new FAISS index...
+2025-01-26 23:42:11,664 - INFO - Sent welcome message with options to 1223603125
+2025-01-26 23:42:14,496 - INFO - User 1223603125 tried to continue a non-existent chat.
+2025-01-26 23:42:33,937 - INFO - User 1223603125 chose to upload new files.
+2025-01-26 23:42:45,559 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-26 23:42:49,686 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-27 00:45:05,475 - INFO - Sent welcome message to 7022734274
+2025-01-27 00:47:16,509 - INFO - Received and saved image: uploads\image_7022734274_1.jpg
+2025-01-27 00:47:39,062 - INFO - Extracted text from image: uploads\image_7022734274_1.jpg
+2025-01-27 00:48:09,965 - INFO - Querying Gemini with question: Does this image have Python basics.
+2025-01-27 00:48:10,618 - INFO - User 7022734274 asked Gemini: Does this image have Python basics.
+2025-01-27 00:48:11,427 - INFO - Prompted user 7022734274 for another question.
+2025-01-27 00:48:38,430 - INFO - User 7022734274 chose to continue asking questions.
+2025-01-27 00:48:52,005 - INFO - Querying Gemini with question: Does it have Django
+2025-01-27 00:48:52,431 - INFO - User 7022734274 asked Gemini: Does it have Django
+2025-01-27 00:48:53,108 - INFO - Prompted user 7022734274 for another question.
+2025-01-27 00:49:36,246 - INFO - User 7022734274 chose to continue asking questions.
+2025-01-27 00:51:08,715 - INFO - Querying Gemini with question: None
+2025-01-27 00:51:10,165 - INFO - User 7022734274 asked Gemini: None
+2025-01-27 00:51:10,880 - INFO - Prompted user 7022734274 for another question.
+2025-01-27 00:51:23,350 - INFO - User 7022734274 chose 'No', returning to welcome message.
+2025-01-27 00:51:39,299 - INFO - Received and saved file: uploads\CBSE Board Detailed_Notification_SUPDT_JA_31122024.pdf
+2025-01-27 00:51:51,005 - INFO - Extracted text from PDF: uploads\CBSE Board Detailed_Notification_SUPDT_JA_31122024.pdf
+2025-01-27 00:54:24,505 - INFO - Sent welcome message to 7022734274
+2025-01-27 00:54:48,168 - INFO - Received and saved file: uploads\CBSE Board Detailed_Notification_SUPDT_JA_31122024.pdf
+2025-01-27 00:55:20,743 - INFO - Sent welcome message to 7022734274
+2025-01-27 00:55:34,598 - INFO - Received and saved file: uploads\CBSE Board Detailed_Notification_SUPDT_JA_31122024.pdf
+2025-01-27 00:55:43,084 - INFO - Extracted text from PDF: uploads\CBSE Board Detailed_Notification_SUPDT_JA_31122024.pdf
+2025-01-27 00:55:43,258 - INFO - Extracted text from PDF: uploads\CBSE Board Detailed_Notification_SUPDT_JA_31122024.pdf
+2025-01-27 00:56:18,673 - INFO - Querying Gemini with question: Is there a post for junior assistant.
+2025-01-27 00:56:21,185 - INFO - User 7022734274 asked Gemini: Is there a post for junior assistant.
+2025-01-27 00:56:21,848 - INFO - Prompted user 7022734274 for another question.
+2025-01-27 00:56:37,277 - WARNING - User 7022734274 selected an invalid option: Is it available foe HI. Re-prompting.
+2025-01-27 00:56:46,192 - INFO - User 7022734274 chose to continue asking questions.
+2025-01-27 00:56:57,839 - INFO - Querying Gemini with question: Is it available for HI
+2025-01-27 00:57:00,835 - INFO - User 7022734274 asked Gemini: Is it available for HI
+2025-01-27 00:57:01,473 - INFO - Prompted user 7022734274 for another question.
+2025-01-27 00:57:17,473 - INFO - User 7022734274 chose to continue asking questions.
+2025-01-27 00:57:40,505 - INFO - Querying Gemini with question: Is junior assistant post available for deaf
+2025-01-27 00:57:42,787 - INFO - User 7022734274 asked Gemini: Is junior assistant post available for deaf
+2025-01-27 00:57:43,701 - INFO - Prompted user 7022734274 for another question.
+2025-01-27 00:58:57,855 - INFO - User 7022734274 chose to continue asking questions.
+2025-01-27 00:59:25,305 - INFO - Querying Gemini with question: What is the Qualification required to apply for junior assistant.
+2025-01-27 00:59:27,640 - INFO - User 7022734274 asked Gemini: What is the Qualification required to apply for junior assistant.
+2025-01-27 00:59:28,404 - INFO - Prompted user 7022734274 for another question.
+2025-01-27 01:00:15,008 - WARNING - User 7022734274 selected an invalid option: Is the post available for ASD. Re-prompting.
+2025-01-27 01:00:18,383 - INFO - User 7022734274 chose to continue asking questions.
+2025-01-27 01:00:29,336 - INFO - Querying Gemini with question: Is the post available for ASD
+2025-01-27 01:00:31,712 - INFO - User 7022734274 asked Gemini: Is the post available for ASD
+2025-01-27 01:00:32,349 - INFO - Prompted user 7022734274 for another question.
+2025-01-27 01:02:59,028 - INFO - Sent welcome message to 1223603125
+2025-01-27 01:04:16,471 - INFO - Received and saved file: uploads\revision-of-axis-bank-credit-card-terms-and-conditions.pdf
+2025-01-27 01:05:43,489 - INFO - Sent welcome message to 1223603125
+2025-01-27 01:11:24,434 - INFO - Sent welcome message to 1223603125
+2025-01-27 01:13:56,236 - INFO - Sent welcome message to 1223603125
+2025-01-27 01:15:19,745 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-27 01:15:24,740 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-27 01:16:10,474 - INFO - Querying Gemini with question: Use Gemini
+2025-01-27 01:16:12,145 - INFO - User 1223603125 asked Gemini: Use Gemini
+2025-01-27 01:16:12,772 - INFO - Prompted user 1223603125 for another question.
+2025-01-27 01:16:37,764 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-27 01:17:13,740 - INFO - Querying Gemini with question: skills
+2025-01-27 01:17:14,618 - INFO - User 1223603125 asked Gemini: skills
+2025-01-27 01:17:15,338 - INFO - Prompted user 1223603125 for another question.
+2025-01-27 01:17:21,892 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-27 01:17:30,470 - INFO - Querying Gemini with question: qualification
+2025-01-27 01:17:31,109 - INFO - User 1223603125 asked Gemini: qualification
+2025-01-27 01:17:31,729 - INFO - Prompted user 1223603125 for another question.
+2025-01-27 01:17:41,021 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-27 01:24:18,621 - INFO - Querying Gemini with question: No
+2025-01-27 01:24:19,091 - INFO - User 1223603125 asked Gemini: No
+2025-01-27 01:24:20,061 - INFO - Prompted user 1223603125 for another question.
+2025-01-27 01:24:23,634 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-27 01:28:51,007 - INFO - Sent start message to 1223603125
+2025-01-27 01:29:00,912 - INFO - Sent start message to 1223603125
+2025-01-27 01:29:10,055 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-27 01:29:16,683 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-27 01:31:47,603 - INFO - User 1223603125 pressed Start.
+2025-01-27 01:32:01,959 - INFO - Sent start message to 1223603125
+2025-01-27 01:35:23,889 - INFO - Sent start message to 1223603125
+2025-01-27 01:35:37,071 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-27 01:59:40,287 - INFO - Sent welcome message to 1223603125
+2025-01-27 02:02:45,912 - INFO - Sent welcome message to 1223603125
+2025-01-27 02:02:49,679 - INFO - Sent welcome message to 1223603125
+2025-01-27 02:02:55,396 - INFO - Sent welcome message to 1223603125
+2025-01-27 02:03:46,599 - INFO - Creating a new FAISS index...
+2025-01-27 02:03:50,568 - INFO - Sent welcome message with options to 1223603125
+2025-01-27 02:04:28,380 - INFO - User 1223603125 tried to continue a non-existent chat.
+2025-01-27 02:04:37,460 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-27 02:04:41,933 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-27 02:13:35,724 - INFO - Creating a new FAISS index...
+2025-01-27 02:13:48,068 - INFO - Sent welcome message with options to 1223603125
+2025-01-27 02:13:51,012 - INFO - User 1223603125 tried to continue a non-existent chat.
+2025-01-27 02:13:55,849 - INFO - User 1223603125 chose to upload new files.
+2025-01-27 02:14:10,313 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-27 02:14:13,636 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-27 02:16:10,381 - INFO - Creating a new FAISS index...
+2025-01-27 02:16:12,790 - INFO - Sent welcome message with options to 1223603125
+2025-01-27 02:16:16,148 - INFO - User 1223603125 chose to upload new files.
+2025-01-27 02:16:24,732 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-27 02:16:29,132 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-27 02:16:29,449 - INFO - Embedding shape: (768,), dtype: float32
+2025-01-27 02:16:29,453 - INFO - FAISS index saved successfully.
+2025-01-27 02:16:29,454 - INFO - Text stored in FAISS successfully.
+2025-01-27 02:16:29,454 - INFO - User session stored: {'content': 'Currently hiring for Quality Analyst\nLocation: Remote Job\nShift Time: 9Am-5Pm EST\nRequired Skills:\n\n4-6 years of experience in QA automation testing.\n\nProficiency in using automation tools (e.g.,\nSelenium, JUnit, TestNG).\n\nStrong experience with API testing tools (e.g.,\nPostman, Rest Assured).\n\nGood understanding of CI/CD pipelines and\nintegration with testing\n\nKnowledge of programming languages like Java,\nPython, or JavaScript.\n\nFamiliarity with version control systems (e.g.,\nGit).\n\nExcellent problem-solving skills and attention to\ndetail.\n\nStrong communication and teamwork abilities\n\nLocation: Work from Home (Remote)\nSalary: Up to 8 LPA\n\nInterested Candidates can share resume at\ninfo@careerassistance.in\nContact: +91 7901761236\n', 'workflow': 'gemini'}
+2025-01-27 02:16:38,852 - INFO - Querying Gemini with question: contact number
+2025-01-27 02:16:39,368 - INFO - User 1223603125 asked Gemini: contact number
+2025-01-27 02:16:39,990 - INFO - Prompted user 1223603125 for another question.
+2025-01-27 02:16:43,068 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-27 02:16:51,905 - INFO - Sent welcome message with options to 1223603125
+2025-01-27 02:16:53,576 - INFO - User 1223603125 resumed their previous chat.
+2025-01-27 02:16:53,889 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-27 02:16:59,855 - INFO - Querying Gemini with question: skills
+2025-01-27 02:17:00,858 - INFO - User 1223603125 asked Gemini: skills
+2025-01-27 02:17:01,528 - INFO - Prompted user 1223603125 for another question.
+2025-01-27 02:17:13,432 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-27 02:17:27,747 - INFO - Querying Gemini with question: No
+2025-01-27 02:17:31,600 - INFO - User 1223603125 asked Gemini: No
+2025-01-27 02:17:32,223 - INFO - Prompted user 1223603125 for another question.
+2025-01-27 02:17:44,168 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-27 02:18:04,256 - INFO - Sent welcome message with options to 1223603125
+2025-01-27 02:19:19,696 - INFO - User 1223603125 resumed their previous chat.
+2025-01-27 02:19:20,023 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-27 02:19:42,973 - INFO - Querying Gemini with question: /help
+2025-01-27 02:19:43,899 - INFO - User 1223603125 asked Gemini: /help
+2025-01-27 02:19:44,518 - INFO - Prompted user 1223603125 for another question.
+2025-01-27 02:19:49,243 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-27 02:19:51,601 - INFO - Sent welcome message with options to 1223603125
+2025-01-27 02:20:00,288 - INFO - Sent welcome message with options to 1223603125
+2025-01-27 02:20:05,946 - INFO - Sent welcome message with options to 1223603125
+2025-01-27 02:28:48,864 - INFO - Sent welcome message to 1223603125
+2025-01-27 02:28:57,914 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-27 02:29:02,552 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-27 02:29:10,153 - INFO - Querying Gemini with question: email id
+2025-01-27 02:29:10,632 - INFO - User 1223603125 asked Gemini: email id
+2025-01-27 02:29:11,318 - INFO - Prompted user 1223603125 for another question.
+2025-01-27 02:29:13,567 - INFO - User 1223603125 chose to continue asking questions.
+2025-01-27 02:29:16,904 - INFO - Querying Gemini with question: skills
+2025-01-27 02:29:17,781 - INFO - User 1223603125 asked Gemini: skills
+2025-01-27 02:29:18,421 - INFO - Prompted user 1223603125 for another question.
+2025-01-27 02:29:23,491 - INFO - User 1223603125 chose 'No', returning to welcome message.
+2025-01-27 02:29:55,039 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-27 02:30:06,099 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-27 02:31:05,635 - INFO - Sent welcome message to 1223603125
+2025-01-27 04:22:33,484 - INFO - Received and saved image: uploads\image_1223603125_1.jpg
+2025-01-27 04:22:37,281 - INFO - Extracted text from image: uploads\image_1223603125_1.jpg
+2025-01-27 04:27:53,716 - INFO - Sent welcome message to 1223603125
+2025-01-27 04:28:03,703 - INFO - Sent welcome message to 1223603125
+2025-01-27 04:29:35,583 - INFO - Sent welcome message to 1223603125
+2025-01-27 04:29:40,040 - INFO - Sent welcome message to 1223603125

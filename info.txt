@@ -1,0 +1,5 @@
+test 12- works with pdf and images and supports continous QA
+test 18- works  pdf, images , multiple combinations and responds if 2 files  2 times response
+test 19 works pdf, image, multiple combinations , click done then it response 1 time and support multiple qa session
+test 12b showed demo  - multiple files  uses onlygemini
+test 12c  multiple files uses gemini  and  have new file and history option
