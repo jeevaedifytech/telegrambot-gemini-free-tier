@@ -1,5 +1,6 @@
 test 12- works with pdf and images and supports continous QA
 test 18- works  pdf, images , multiple combinations and responds if 2 files  2 times response
 test 19 works pdf, image, multiple combinations , click done then it response 1 time and support multiple qa session
+test 12a pdf image extracted and stored in faiss db (gemini, chatgpt), chosoe 2 options and ask question  works fine with multiple QA  
 test 12b showed demo  - multiple files  uses onlygemini
-test 12c  multiple files uses gemini  and  have new file and history option
+test 12c  multiple files uses gemini  and  have 2 options 1.new file and 2.history option
