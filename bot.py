@@ -132,14 +132,14 @@ def send_welcome(message):
     # Create a Reply Keyboard with two options
     markup = ReplyKeyboardMarkup(resize_keyboard=True, one_time_keyboard=True)
     upload_button = KeyboardButton("Upload New Files")
-    continue_button = KeyboardButton("Continue Previous Chat")
+    continue_button = KeyboardButton("Continue Chat")
     markup.add(upload_button, continue_button)
 
     bot.send_message(
         message.chat.id,
         "Welcome!\nSend me multiple PDFs or images, and I'll extract their content and answer your questions.or continue previous chat.\n What would you like to do?\n\n"
         "1. Upload new files for processing. \n"
-        "2. Continue your previous chat.",
+        "2. Continue your chat.",
         reply_markup=markup
     )
     logging.info(f"Sent welcome message with options to {message.chat.id}")
