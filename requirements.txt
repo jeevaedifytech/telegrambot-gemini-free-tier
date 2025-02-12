@@ -6,3 +6,17 @@ google-generativeai
 torch 
 torchvision 
 torchaudio
+fitz    
+pytesseract
+openai
+faiss
+PyMuPDF
+pdfplumber
+pypdf
+langchain
+langchain-core
+langchain-community
+chromadb
+pymupdf4llm
+SpeechRecognition
+marker-pdf
